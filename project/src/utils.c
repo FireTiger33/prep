@@ -2,7 +2,7 @@
 #include "utils.h"
 
 size_t custom_strlen(const char* str) {
-	unsigned strlen = 0;
+	unsigned int strlen = 0;
 	while(str[strlen] != '\0') {
 		strlen++;
 	}
@@ -19,12 +19,3 @@ int custom_pow(int base, int power) {
 	return result;
 }
 
-int custom_is_simple(int n) {
-	if(n < 2)
-		return 0;
-	int div = 1;
-	while(++div != n)
-		if(!(n % div))
-			return 0;
-	return 1;
-}

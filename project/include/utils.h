@@ -4,9 +4,8 @@
 
 size_t custom_strlen(const char* str);
 
-int custom_pow(int, int);
+int custom_pow(int base, int power);
 
-int custom_is_simple(int);
 // TODO(FireTiger)
 
 #endif		// PROJECT_INCLUDE_UTILS_H_

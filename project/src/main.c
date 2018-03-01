@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 #include "utils.h"
+#include "simple.h"
 
 #define ERR_ARGS_COUNT (-1)
 #define ERR_WRONG_FLG (-2)
