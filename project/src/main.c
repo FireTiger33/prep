@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 #include "utils.h"
-#include "simple.h"
+#include "prime.h"
 
 #define ERR_ARGS_COUNT (-1)
 #define ERR_WRONG_FLG (-2)
@@ -39,7 +39,7 @@ int main(int argc, const char** argv) {
         }
         case TST_MOD_IMPL: {
 	    int n = atoi(data);
-            printf("%d", custom_is_simple(n));
+            printf("%d", custom_is_prime(n));
             break;
         }
         default: {
