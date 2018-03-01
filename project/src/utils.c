@@ -28,4 +28,3 @@ int custom_is_simple(int n) {
 			return 0;
 	return 1;
 }
-// TODO(FireTiger): Implement `power of` function

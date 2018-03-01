@@ -32,13 +32,13 @@ int main(int argc, const char** argv) {
             }
             int base = atoi(data);
             int pow =  atoi(argv[3]);
-            int res = custom_pow(base, pow);    // TODO(FireTiger)
+            int res = custom_pow(base, pow);
             printf("%i\n", res);
             break;
         }
         case TST_MOD_IMPL: {
 	    int n = atoi(data);
-            printf("%d", custom_is_simple(n));	 // TODO(FireTiger)
+            printf("%d", custom_is_simple(n));
             break;
         }
         default: {
