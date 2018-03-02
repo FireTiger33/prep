@@ -38,7 +38,7 @@ int main(int argc, const char** argv) {
             break;
         }
         case TST_MOD_IMPL: {
-	   		int n = atoi(data);
+            int n = atoi(data);
             printf("%d", custom_is_prime(n));
             break;
         }
