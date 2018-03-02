@@ -20,9 +20,9 @@ int main(int argc, const char** argv) {
     const char* data = argv[2];
     switch (test_case) {
         case TST_FOO_FIX: {
-	    if (argc != 3) {
-		return ERR_ARGS_COUNT;
-	    }
+	    	if (argc != 3) {
+				return ERR_ARGS_COUNT;
+	    	}
             size_t res = custom_strlen(data);
             printf("%zu\n", res);
             break;
@@ -38,7 +38,7 @@ int main(int argc, const char** argv) {
             break;
         }
         case TST_MOD_IMPL: {
-	    int n = atoi(data);
+	   		int n = atoi(data);
             printf("%d", custom_is_prime(n));
             break;
         }
@@ -46,6 +46,5 @@ int main(int argc, const char** argv) {
             return ERR_WRONG_FLG;
         }
     }
-
     return 0;
 }
