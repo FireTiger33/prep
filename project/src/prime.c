@@ -7,7 +7,7 @@ int custom_is_prime(int number) {
 	}
 	int div = 1;
 	while(++div != number) {
-		if(!(number % div)) {
+        if(!(number % div)) {
 			return 0;
 		}
 	}
