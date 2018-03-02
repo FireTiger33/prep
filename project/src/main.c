@@ -20,9 +20,9 @@ int main(int argc, const char** argv) {
     const char* data = argv[2];
     switch (test_case) {
         case TST_FOO_FIX: {
-	        if (argc != 3) {
-		        return ERR_ARGS_COUNT;
-	        }
+            if (argc != 3) {
+                return ERR_ARGS_COUNT;
+            }
             size_t res = custom_strlen(data);
             printf("%zu\n", res);
             break;
