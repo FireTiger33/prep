@@ -9,7 +9,7 @@ typedef struct Matrix {
 
 // Init/release operations
 Matrix* create_matrix_from_file(const char* path_file);
-Matrix* create_matrix(int rows, int cols);
+Matrix* create_matrix(size_t rows, size_t cols);
 int free_matrix(Matrix* matrix);
 
 // Basic operations
