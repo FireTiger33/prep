@@ -19,7 +19,7 @@ static void _test_scalar_mul(const char *, double , const char *);
 
 
 static double factors[] = {
-    1., 2.,
+    0., 1., -232.23, 3.,
 };
 
 void test_scalar_mul(const char *base_dir) {

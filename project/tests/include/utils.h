@@ -12,7 +12,7 @@ Matrix *create_identity_matrix(int);
 void print_matrix(const Matrix *);
 void assert_matrix_equal(Matrix *, Matrix *);
 
-int double_equals(double, double);
+int double_equals(double, double, double);
 
 
 #endif  // PROJECT_TESTS_INCLUDE_UTILS_H_

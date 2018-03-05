@@ -73,8 +73,7 @@ Matrix *create_identity_matrix(int size) {
     return matrix;
 }
 
-int double_equals(double left, double right) {
-    double eps = 0.3;
+int double_equals(double left, double right, double eps) {
     return fabs(left - right) < eps;
 }
 
@@ -98,8 +97,8 @@ void assert_matrix_equal(Matrix *expected, Matrix *received) {
             double r_elem = 0.;
             get_elem(received, i, j, &r_elem);
 
-            if (!double_equals(l_elem, r_elem)) {
-                printf("Matrix element does not match in position [%zu][%zu]\n", i, j);
+            if (!double_equals(l_elem, r_elem, 0.3)) {
+                printf("\nMatrix element does not match in position [%zu][%zu]\n", i, j);
 
                 puts("Expected matrix:");
                 print_matrix(expected);
