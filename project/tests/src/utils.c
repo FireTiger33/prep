@@ -66,7 +66,7 @@ Matrix *create_identity_matrix(int size) {
 
     for (int i = 0; i < size; i++) {
         for (int j = 0; j < size; j++) {
-            matrix->data[i][j] = (i == j) ? 1. : 0.;
+            set_elem(matrix, i, j, (i == j) ? 1. : 0.);
         }
     }
 
