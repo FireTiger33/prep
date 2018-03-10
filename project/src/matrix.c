@@ -84,6 +84,9 @@ int set_elem(Matrix* matrix, int row, int col, double val) {
 
 Matrix* mul_scalar(const Matrix* matrix, double val) {
     Matrix *matrix_mul = create_matrix(matrix->rows, matrix->cols);
+    if (!matrix_mul) {
+        return NULL;
+    }
     for (size_t i = 0; i < matrix_mul->rows; i++) {
         for (size_t j = 0; j < matrix_mul->cols; j++) {
             matrix_mul->ret[i][j] = matrix->ret[i][j] * val;
@@ -94,6 +97,9 @@ Matrix* mul_scalar(const Matrix* matrix, double val) {
 
 Matrix* transp(const Matrix* matrix) {
     Matrix *transp_matrix = create_matrix(matrix->cols, matrix->rows);
+    if (!transp_matrix) {
+        return NULL;
+    }
     for (size_t i = 0; i < matrix->rows; i++) {
         for (size_t j = 0; j < matrix->cols; j++) {
             transp_matrix->ret[j][i] = matrix->ret[i][j];
@@ -104,6 +110,7 @@ Matrix* transp(const Matrix* matrix) {
 
 Matrix* sum(const Matrix* l, const Matrix* r) {
     if (l->rows != r->rows || l->cols != r->cols) {
+        fprintf(stderr, "Can't sum matrixes.\n");
         return NULL;
     }
     Matrix *matrix_sum = create_matrix(l->rows, l->cols);
@@ -117,9 +124,13 @@ Matrix* sum(const Matrix* l, const Matrix* r) {
 
 Matrix* sub(const Matrix* l, const Matrix* r) {
     if (l->rows != r->rows || l->cols != r->cols) {
+        fprintf(stderr, "Can't sub matrixes\n");
         return NULL;
     }
     Matrix *matrix_sub = create_matrix(l->rows, l->cols);
+    if (!matrix_sub) {
+        return NULL;
+    }
     for (size_t i = 0; i < matrix_sub->rows; i++) {
         for (size_t j = 0; j < matrix_sub->cols; j++) {
             matrix_sub->ret[i][j] = l->ret[i][j] - r->ret[i][j];
@@ -130,9 +141,13 @@ Matrix* sub(const Matrix* l, const Matrix* r) {
 
 Matrix* mul(const Matrix* l, const Matrix* r) {
     if (l->cols != r->rows) {
+        fprintf(stderr, "Can't multiplication matrixes.\n");
         return NULL;
     }
     Matrix *matrix_mul = create_matrix(l->rows, r->cols);
+    if (!matrix_mul) {
+        return NULL;
+    }
     for (size_t i = 0; i < r->cols; i++) {
         for (size_t j = 0; j < l->rows; j++) {
             for (size_t k = 0; k < r->rows; k++) {
