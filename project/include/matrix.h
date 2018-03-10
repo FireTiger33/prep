@@ -1,16 +1,10 @@
-#ifndef PROJECT_INCLUDE_MATRIX_H_
-#define PROJECT_INCLUDE_MATRIX_H_
+#ifndef _MATRIX_H_
+#define _MATRIX_H_
 
 #include <stddef.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <errno.h>
-#include <string.h>
+
 
 typedef struct Matrix {
-    size_t cols;
-    size_t rows;
-    double **ret;
 } Matrix;
 
 // Init/release operations
@@ -24,7 +18,7 @@ int get_cols(const Matrix* matrix, size_t* cols);
 int get_elem(const Matrix* matrix, int row, int col, double* val);
 int set_elem(Matrix* matrix, int row, int col, double val);
 
-// Math operations
+//Math operations
 Matrix* mul_scalar(const Matrix* matrix, double val);
 Matrix* transp(const Matrix* matrix);
 
@@ -33,9 +27,9 @@ Matrix* sub(const Matrix* l, const Matrix* r);
 Matrix* mul(const Matrix* l, const Matrix* r);
 
 // Extra operations
-int det(/*const Matrix* matrix, double* val*/);
-Matrix* adj(/*const Matrix* matrix*/);
-Matrix* inv(/*const Matrix* matrix*/);
+int det(const Matrix* matrix, double* val);
+Matrix* adj(const Matrix* matrix);
+Matrix* inv(const Matrix* matrix);
 
 
-#endif  // PROJECT_INCLUDE_MATRIX_H_
+#endif //_MATRIX_H_
