@@ -109,7 +109,7 @@ Matrix* transp(const Matrix* matrix) {
 
 Matrix* sum(const Matrix* l, const Matrix* r) {
     if (l->rows != r->rows || l->cols != r->cols) {
-        printf(stderr, "Can't sum matrixes.\n");
+        fprintf(stderr, "Can't sum matrixes.\n");
         return NULL;
     }
     Matrix *matrix_sum = create_matrix(l->rows, l->cols);
