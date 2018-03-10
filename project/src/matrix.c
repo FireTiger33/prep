@@ -7,6 +7,7 @@ int free_matrix(Matrix* matrix) {
     }
     free(matrix->ret);
     free(matrix);
+    //printf("matrix free: %p\n", matrix->ret);
     return 0;
 }
 
