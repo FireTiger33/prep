@@ -239,10 +239,9 @@ int det(const Matrix* matrix, double* val) {
     Matrix *new_matrix = matrix_copy(matrix);
     int sign = 0;
     *val = 1;
-    double tmp = 0;
     size_t x = 0;
     size_t y = 0;
-    for(size_t i = 0; i < cols; i++) {
+    for (size_t i = 0; i < cols; i++) {
         if (new_matrix->ret[i][i] == 0) {
             if (search_null(new_matrix, &x, &y, i)) {
                 *val = 0;
@@ -258,7 +257,7 @@ int det(const Matrix* matrix, double* val) {
             }
         }
         *val *= new_matrix->ret[i][i];
-        tmp = new_matrix->ret[i][i];
+        double tmp = new_matrix->ret[i][i];
         for (x = i; x < cols; x++) {
             new_matrix->ret[i][x] = new_matrix->ret[i][x] / tmp;
         }
@@ -271,8 +270,7 @@ int det(const Matrix* matrix, double* val) {
     if (*val < 0) {
         *val = (unsigned long long int)(*val*100000*(-1));
         *val = (double)(*val*(-1));
-    }
-    else {
+    } else {
         *val = (unsigned long long int)(*val*100000);
     }
     *val /= 100000;
@@ -284,7 +282,7 @@ int det(const Matrix* matrix, double* val) {
 
 Matrix* adj(const Matrix* matrix) {
     Matrix *adj_matrix = create_matrix(matrix->rows, matrix->cols);
-    if (!adj_matrix){
+    if (!adj_matrix) {
         return NULL;
     }
     for (size_t i = 0; i < matrix->rows; i++) {
