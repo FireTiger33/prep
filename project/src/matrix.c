@@ -46,11 +46,6 @@ Matrix* create_matrix(size_t rows, size_t cols) {
     matrix->cols = cols;
     matrix->ret = (double **)malloc(sizeof(double *) * rows);
     if (!matrix->ret) {
-        fprintf(stderr, "Memory error: %s.\n", strerror(errno));
-        free(matrix);
-        return NULL;
-    }
-    if (!matrix->ret) {
         fprintf(stderr, "Can't create matrix. Memory error. %s\n", strerror(errno));
         free(matrix);
         return NULL;
@@ -58,7 +53,7 @@ Matrix* create_matrix(size_t rows, size_t cols) {
     for (size_t i = 0; i < rows; i++) {
         matrix->ret[i] = (double *)calloc(cols, sizeof(double));
         if (!matrix->ret[i]) {
-            matrix->rows = i;
+            matrix->rows = i - 1;
             free_matrix(matrix);
             fprintf(stderr, "Can't create matrix. %s\n", strerror(errno));
             return NULL;
@@ -82,6 +77,9 @@ Matrix* create_matrix_from_file(const char* path_file) {
         return NULL;
     }
     Matrix *matrix = create_matrix(n_rows, n_cols);
+    if (!matrix) {
+        return NULL;
+    }
     for (size_t i = 0; i < n_rows; i++) {
         for (size_t j = 0; j < n_cols; j++) {
             int read_objects = fscanf(f, "%lf", &matrix->ret[i][j]);
