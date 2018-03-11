@@ -2,6 +2,10 @@
 
 
 void cout_matrix(const Matrix *matrix) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return;
+    }
     double var = 0;
     size_t cols = 0;
     size_t rows = 0;
@@ -18,7 +22,12 @@ void cout_matrix(const Matrix *matrix) {
     putchar('\n');
 }
 
+
 int free_matrix(Matrix* matrix) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return -1;
+    }
     for (size_t i = 0; i < matrix->rows; i++) {
         free(matrix->ret[i]);
     }
@@ -29,11 +38,20 @@ int free_matrix(Matrix* matrix) {
 
 Matrix* create_matrix(size_t rows, size_t cols) {
     Matrix *matrix = (Matrix *)malloc(sizeof(Matrix));
+    if (!matrix) {
+        fprintf(stderr, "Memory error: %s.\n", strerror(errno));
+        return NULL;
+    }
     matrix->rows = rows;
     matrix->cols = cols;
     matrix->ret = (double **)malloc(sizeof(double *) * rows);
     if (!matrix->ret) {
-        fprintf(stderr, "Can't create matrix. Memory error.\n");
+        fprintf(stderr, "Memory error: %s.\n", strerror(errno));
+        free(matrix);
+        return NULL;
+    }
+    if (!matrix->ret) {
+        fprintf(stderr, "Can't create matrix. Memory error. %s\n", strerror(errno));
         free(matrix);
         return NULL;
     }
@@ -42,7 +60,7 @@ Matrix* create_matrix(size_t rows, size_t cols) {
         if (!matrix->ret[i]) {
             matrix->rows = i;
             free_matrix(matrix);
-            fprintf(stderr, "Can't create matrix. \n");
+            fprintf(stderr, "Can't create matrix. %s\n", strerror(errno));
             return NULL;
         }
     }
@@ -51,12 +69,12 @@ Matrix* create_matrix(size_t rows, size_t cols) {
 
 Matrix* create_matrix_from_file(const char* path_file) {
     FILE *f = fopen(path_file, "r");
-    size_t n_rows = 0;
-    size_t n_cols = 0;
     if (!f) {
         fprintf(stderr, "Can't open file %s: err == %s\n", path_file, strerror(errno));
         return NULL;
     }
+    size_t n_rows = 0;
+    size_t n_cols = 0;
     int fields_read = fscanf(f, "%zu %zu", &n_rows, &n_cols);
     if (fields_read != 2) {
         fprintf(stderr, "Can't read n_rows/n_cols\n");
@@ -79,26 +97,46 @@ Matrix* create_matrix_from_file(const char* path_file) {
 }
 
 int get_rows(const Matrix* matrix, size_t* rows) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return -1;
+    }
     *rows = matrix->rows;
     return 0;
 }
 
 int get_cols(const Matrix* matrix, size_t* cols) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return -1;
+    }
     *cols = matrix->cols;
     return 0;
 }
 
 int get_elem(const Matrix* matrix, int row, int col, double* val) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return -1;
+    }
     *val = matrix->ret[row][col];
     return 0;
 }
 
 int set_elem(Matrix* matrix, int row, int col, double val) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return -1;
+    }
     matrix->ret[row][col] = val;
     return 0;
 }
 
 Matrix* mul_scalar(const Matrix* matrix, double val) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return NULL;
+    }
     Matrix *matrix_mul = create_matrix(matrix->rows, matrix->cols);
     for (size_t i = 0; i < matrix_mul->rows; i++) {
         for (size_t j = 0; j < matrix_mul->cols; j++) {
@@ -109,6 +147,10 @@ Matrix* mul_scalar(const Matrix* matrix, double val) {
 }
 
 Matrix* transp(const Matrix* matrix) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return NULL;
+    }
     Matrix *transp_matrix = create_matrix(matrix->cols, matrix->rows);
     for (size_t i = 0; i < matrix->rows; i++) {
         for (size_t j = 0; j < matrix->cols; j++) {
@@ -119,6 +161,14 @@ Matrix* transp(const Matrix* matrix) {
 }
 
 Matrix* sum(const Matrix* l, const Matrix* r) {
+    if (!l) {
+        printf("Can't sum matrices. First matrix is not exist\n");
+        return NULL;
+    }
+    if (!r) {
+        printf("Can't sum matrices. Second matrix is not exist\n");
+        return NULL;
+    }
     if (l->rows != r->rows || l->cols != r->cols) {
         return NULL;
     }
@@ -132,6 +182,14 @@ Matrix* sum(const Matrix* l, const Matrix* r) {
 }
 
 Matrix* sub(const Matrix* l, const Matrix* r) {
+    if (!l) {
+        printf("Can't subtract matrices. First matrix is not exist\n");
+        return NULL;
+    }
+    if (!r) {
+        printf("Can't subtract matrices. Second matrix is not exist\n");
+        return NULL;
+    }
     if (l->rows != r->rows || l->cols != r->cols) {
         return NULL;
     }
@@ -145,6 +203,14 @@ Matrix* sub(const Matrix* l, const Matrix* r) {
 }
 
 Matrix* mul(const Matrix* l, const Matrix* r) {
+    if (!l) {
+        printf("Can't multiply matrices. First matrix is not exist\n");
+        return NULL;
+    }
+    if (!r) {
+        printf("Can't multiply matrices. Second matrix is not exist\n");
+        return NULL;
+    }
     if (l->cols != r->rows) {
         return NULL;
     }
@@ -158,6 +224,7 @@ Matrix* mul(const Matrix* l, const Matrix* r) {
     }
     return matrix_mul;
 }
+
 
 Matrix* matrix_copy(const Matrix* matrix) {
     Matrix *new_matrix = create_matrix(matrix->rows, matrix->cols);
@@ -223,6 +290,10 @@ void swap_cols(Matrix *matrix, size_t x1, size_t x2) {
 }
 
 int det(const Matrix* matrix, double* val) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return 1;
+    }
     size_t cols = matrix->cols;
     if (cols != matrix->rows || cols == 0) {
         printf("For a given matrix it's not possible to find determinant\n");
@@ -281,6 +352,10 @@ int det(const Matrix* matrix, double* val) {
 }
 
 Matrix* adj(const Matrix* matrix) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return NULL;
+    }
     Matrix *adj_matrix = create_matrix(matrix->rows, matrix->cols);
     if (!adj_matrix) {
         return NULL;
@@ -303,6 +378,10 @@ Matrix* adj(const Matrix* matrix) {
 }
 
 Matrix* inv(const Matrix* matrix) {
+    if (!matrix) {
+        printf("Matrix is not exist\n");
+        return NULL;
+    }
     double det_matrix = 0;
     cout_matrix(matrix);
     if (det(matrix, &det_matrix)) {
