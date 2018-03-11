@@ -78,6 +78,7 @@ Matrix* create_matrix_from_file(const char* path_file) {
     }
     Matrix *matrix = create_matrix(n_rows, n_cols);
     if (!matrix) {
+        fclose(f);
         return NULL;
     }
     for (size_t i = 0; i < n_rows; i++) {
