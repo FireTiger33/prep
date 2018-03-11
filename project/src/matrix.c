@@ -304,6 +304,7 @@ Matrix* adj(const Matrix* matrix) {
 
 Matrix* inv(const Matrix* matrix) {
     double det_matrix = 0;
+    cout_matrix(matrix);
     if (det(matrix, &det_matrix)) {
         return NULL;
     }
