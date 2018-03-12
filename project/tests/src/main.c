@@ -26,7 +26,9 @@ static test_func extra_tests[] = {
     // Extra operations
     test_matrix_determinant,
     test_matrix_adjugate,
+    /*
     test_matrix_inverse,
+    */
 };
 
 /**
