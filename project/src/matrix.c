@@ -371,15 +371,14 @@ Matrix* adj(const Matrix* matrix) {
     }
 
     Matrix *adj_matrix = create_matrix(matrix->rows, matrix->cols);
+    Matrix *new_matrix = NULL;
 
     if (!adj_matrix) {
         return NULL;
     }
     for (size_t i = 0; i < matrix->rows; i++) {
         for (size_t j = 0; j < matrix->cols; j++) {
-
-            Matrix *new_matrix = custom_matrix_copy(matrix, i, j);
-
+            new_matrix = custom_matrix_copy(matrix, i, j);
             if (!new_matrix) {
                 return NULL;
             }
@@ -401,15 +400,13 @@ Matrix* inv(const Matrix* matrix) {
     }
 
     double det_matrix = 0;
+    Matrix *inv_matrix = NULL;
 
-    cout_matrix(matrix);
     if (det(matrix, &det_matrix)) {
         return NULL;
     }
     if (det_matrix == 0) {
-
-        Matrix *inv_matrix = create_matrix(matrix->rows, matrix->cols);
-
+        inv_matrix = create_matrix(matrix->rows, matrix->cols);
         if (!inv_matrix) {
             return NULL;
         }
@@ -425,7 +422,7 @@ Matrix* inv(const Matrix* matrix) {
         return NULL;
     }
 
-    Matrix *inv_matrix = mul_scalar(adj_matrix, 1/det_matrix);
+    inv_matrix = mul_scalar(adj_matrix, 1/det_matrix);
 
     if (!inv_matrix) {
         return NULL;
