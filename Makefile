@@ -8,7 +8,7 @@ HDRS = \
 
 SRCS = \
 	   project/src/main.c \
-	   project/src/matrix.c
+	   project/src/matrix.c 
 
 # Test
 TST_HDRS = \
