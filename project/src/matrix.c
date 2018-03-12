@@ -314,6 +314,7 @@ int det(const Matrix* matrix, double* val) {
     for (size_t i = 0; i < cols; i++) {
         if (new_matrix->ret[i][i] == 0) {
             if (search_null(new_matrix, &x, &y, i)) {
+                free_matrix(new_matrix);
                 *val = 0;
                 return 0;
             }
@@ -347,6 +348,7 @@ int det(const Matrix* matrix, double* val) {
     if (sign) {
         *val *= -1;
     }
+    free_matrix(new_matrix);
     return 0;
 }
 
@@ -371,6 +373,7 @@ Matrix* adj(const Matrix* matrix) {
             if ((i + j) % 2) {
                 adj_matrix->ret[j][i] *= -1;
             }
+            free_matrix(new_matrix);
         }
     }
     return adj_matrix;
