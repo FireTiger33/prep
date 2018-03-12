@@ -5,9 +5,11 @@ int cout_matrix(const Matrix *matrix) {
     if (!matrix) {
         return -1;
     }
+
     double var = 0;
     size_t cols = 0;
     size_t rows = 0;
+
     get_cols(matrix, &cols);
     get_rows(matrix, &rows);
     putchar('\n');
@@ -60,17 +62,22 @@ Matrix* create_matrix(size_t rows, size_t cols) {
 
 Matrix* create_matrix_from_file(const char* path_file) {
     FILE *f = fopen(path_file, "r");
+
     if (!f) {
         return NULL;
     }
+
     size_t n_rows = 0;
     size_t n_cols = 0;
+
     int fields_read = fscanf(f, "%zu %zu", &n_rows, &n_cols);
     if (fields_read != 2) {
         fclose(f);
         return NULL;
     }
+
     Matrix *matrix = create_matrix(n_rows, n_cols);
+
     if (!matrix) {
         fclose(f);
         return NULL;
@@ -93,7 +100,9 @@ int get_rows(const Matrix* matrix, size_t* rows) {
     if (!matrix || !rows) {
         return -1;
     }
+
     *rows = matrix->rows;
+
     return 0;
 }
 
@@ -101,7 +110,9 @@ int get_cols(const Matrix* matrix, size_t* cols) {
     if (!matrix || !cols) {
         return -1;
     }
+
     *cols = matrix->cols;
+
     return 0;
 }
 
@@ -109,7 +120,12 @@ int get_elem(const Matrix* matrix, size_t row, size_t col, double* val) {
     if (!matrix || !val) {
         return -1;
     }
+    if (row > matrix->rows || col > matrix->cols) {
+        return -2;
+    }
+
     *val = matrix->ret[row][col];
+
     return 0;
 }
 
@@ -117,7 +133,12 @@ int set_elem(Matrix* matrix, size_t row, size_t col, double val) {
     if (!matrix) {
         return -1;
     }
+    if (row > matrix->rows || col > matrix->cols) {
+        return -2;
+    }
+
     matrix->ret[row][col] = val;
+
     return 0;
 }
 
@@ -125,7 +146,9 @@ Matrix* mul_scalar(const Matrix* matrix, double val) {
     if (!matrix) {
         return NULL;
     }
+
     Matrix *matrix_mul = create_matrix(matrix->rows, matrix->cols);
+
     if (!matrix_mul) {
         return NULL;
     }
@@ -141,7 +164,9 @@ Matrix* transp(const Matrix* matrix) {
     if (!matrix) {
         return NULL;
     }
+
     Matrix *transp_matrix = create_matrix(matrix->cols, matrix->rows);
+
     for (size_t i = 0; i < matrix->rows; i++) {
         for (size_t j = 0; j < matrix->cols; j++) {
             transp_matrix->ret[j][i] = matrix->ret[i][j];
@@ -151,16 +176,15 @@ Matrix* transp(const Matrix* matrix) {
 }
 
 Matrix* sum(const Matrix* l, const Matrix* r) {
-    if (!l) {
-        return NULL;
-    }
-    if (!r) {
+    if (!l || !r) {
         return NULL;
     }
     if (l->rows != r->rows || l->cols != r->cols) {
         return NULL;
     }
+
     Matrix *matrix_sum = create_matrix(l->rows, l->cols);
+
     for (size_t i = 0; i < matrix_sum->rows; i++) {
         for (size_t j = 0; j < matrix_sum->cols; j++) {
             matrix_sum->ret[i][j] = l->ret[i][j] + r->ret[i][j];
@@ -170,16 +194,15 @@ Matrix* sum(const Matrix* l, const Matrix* r) {
 }
 
 Matrix* sub(const Matrix* l, const Matrix* r) {
-    if (!l) {
-        return NULL;
-    }
-    if (!r) {
+    if (!l || !r) {
         return NULL;
     }
     if (l->rows != r->rows || l->cols != r->cols) {
         return NULL;
     }
+
     Matrix *matrix_sub = create_matrix(l->rows, l->cols);
+
     for (size_t i = 0; i < matrix_sub->rows; i++) {
         for (size_t j = 0; j < matrix_sub->cols; j++) {
             matrix_sub->ret[i][j] = l->ret[i][j] - r->ret[i][j];
@@ -189,16 +212,15 @@ Matrix* sub(const Matrix* l, const Matrix* r) {
 }
 
 Matrix* mul(const Matrix* l, const Matrix* r) {
-    if (!l) {
-        return NULL;
-    }
-    if (!r) {
+    if (!l || !r) {
         return NULL;
     }
     if (l->cols != r->rows) {
         return NULL;
     }
+
     Matrix *matrix_mul = create_matrix(l->rows, r->cols);
+
     for (size_t i = 0; i < r->cols; i++) {
         for (size_t j = 0; j < l->rows; j++) {
             for (size_t k = 0; k < r->rows; k++) {
@@ -212,6 +234,7 @@ Matrix* mul(const Matrix* l, const Matrix* r) {
 
 Matrix* matrix_copy(const Matrix* matrix) {
     Matrix *new_matrix = create_matrix(matrix->rows, matrix->cols);
+
     if (!new_matrix) {
         return NULL;
     }
@@ -225,6 +248,7 @@ Matrix* matrix_copy(const Matrix* matrix) {
 
 Matrix* custom_matrix_copy(const Matrix* matrix, size_t x, size_t y) {
     Matrix *new_matrix = create_matrix(matrix->rows - 1, matrix->cols - 1);
+
     if (!new_matrix) {
         return NULL;
     }
@@ -247,6 +271,7 @@ Matrix* custom_matrix_copy(const Matrix* matrix, size_t x, size_t y) {
 
 int search_null(Matrix *matrix, size_t *x, size_t *y, size_t start_i_j) {
     size_t scale = matrix->cols;
+
     for (size_t i = start_i_j; i < scale; i++) {
         for (size_t j = start_i_j; j < scale; j++) {
             if (matrix->ret[i][j] != 0) {
@@ -261,6 +286,7 @@ int search_null(Matrix *matrix, size_t *x, size_t *y, size_t start_i_j) {
 
 void swap_rows(Matrix *matrix, size_t x1, size_t x2) {
     double *buf = matrix->ret[x1];
+
     matrix->ret[x1] = matrix->ret[x2];
     matrix->ret[x2] = buf;
 }
@@ -277,7 +303,9 @@ int det(const Matrix* matrix, double* val) {
     if (!matrix) {
         return 1;
     }
+
     size_t cols = matrix->cols;
+
     if (cols != matrix->rows || cols == 0) {
         return 1;
     }
@@ -289,11 +317,13 @@ int det(const Matrix* matrix, double* val) {
         *val = matrix->ret[0][0] * matrix->ret[1][1] - matrix->ret[0][1] * matrix->ret[1][0];
         return 0;
     }
+
     Matrix *new_matrix = matrix_copy(matrix);
     int sign = 0;
-    *val = 1;
     size_t x = 0;
     size_t y = 0;
+    *val = 1;
+
     for (size_t i = 0; i < cols; i++) {
         if (new_matrix->ret[i][i] == 0) {
             if (search_null(new_matrix, &x, &y, i)) {
@@ -339,13 +369,17 @@ Matrix* adj(const Matrix* matrix) {
     if (!matrix) {
         return NULL;
     }
+
     Matrix *adj_matrix = create_matrix(matrix->rows, matrix->cols);
+
     if (!adj_matrix) {
         return NULL;
     }
     for (size_t i = 0; i < matrix->rows; i++) {
         for (size_t j = 0; j < matrix->cols; j++) {
+
             Matrix *new_matrix = custom_matrix_copy(matrix, i, j);
+
             if (!new_matrix) {
                 return NULL;
             }
@@ -365,13 +399,17 @@ Matrix* inv(const Matrix* matrix) {
     if (!matrix) {
         return NULL;
     }
+
     double det_matrix = 0;
+
     cout_matrix(matrix);
     if (det(matrix, &det_matrix)) {
         return NULL;
     }
     if (det_matrix == 0) {
+
         Matrix *inv_matrix = create_matrix(matrix->rows, matrix->cols);
+
         if (!inv_matrix) {
             return NULL;
         }
@@ -380,11 +418,15 @@ Matrix* inv(const Matrix* matrix) {
         }
         return inv_matrix;
     }
+
     Matrix *adj_matrix = adj(matrix);
+
     if (!adj_matrix) {
         return NULL;
     }
+
     Matrix *inv_matrix = mul_scalar(adj_matrix, 1/det_matrix);
+
     if (!inv_matrix) {
         return NULL;
     }
