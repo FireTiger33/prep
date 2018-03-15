@@ -65,6 +65,8 @@ NO_LOST_PATTERN_LOCAL="definitely lost: 0 bytes"
 NO_ERROR_PATTERN="ERROR SUMMARY: 0 errors"
 
 for test in ${TESTS}; do
+    echo "${test}"
+
     source ${DEFAULT_FNAME}
     source ${test}
 
@@ -107,7 +109,7 @@ for test in ${TESTS}; do
         fi
     fi
 
-    echo -n "."
+    # echo -n "."
 done
 
 rm -f ${VALGRIND_LOG}
