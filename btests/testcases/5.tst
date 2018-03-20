@@ -1,0 +1,12 @@
+KEYS="btests/db/5.db"
+OUT="0|available|8808
+1|bee|5468
+2|cap|5099
+3|chance|3188
+4|female|9206
+5|male|9329
+6|mellow|3093
+7|phobic|10830
+8|secretary|9479
+9|stimulating|334
+10|troubled|2018"

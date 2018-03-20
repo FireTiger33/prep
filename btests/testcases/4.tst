@@ -1,0 +1,11 @@
+KEYS="btests/db/4.db"
+OUT="0|bedroom|9111
+1|fat|4391
+2|female|3798
+3|hat|2960
+4|male|971
+5|mellow|6651
+6|public|5598
+7|separate|3213
+8|tramp|7926
+9|troubled|7378"
