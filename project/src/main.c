@@ -1,67 +1,78 @@
+#define _GNU_SOURCE
+#include <sys/stat.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
 #include <sys/mman.h>
-#include <sys/stat.h>
 
 
-int search_content(char *boundary, char *p, off_t *offset, const off_t *st_size) {
-    //printf("search_content\n\n");
-    //printf("boundary = %s\n", boundary);
-    int ret = 0;
-    while (*offset < *st_size) {
-
-        printf("state = ");
-        for (int i = 0; i < 20; i++) {
-            printf("%c", *(p+i));
+int str_finished_symbol(char c, int add) {
+    if (c == '\n') {
+        return 1;
+    }
+    if (c == '\r') {
+        return 1;
+    }
+    if (add) {
+        if (c == ' ') {
+            return 1;
         }
-        printf("\nret = %d\n" ,ret);
-        puts("");
-
-        if (*p == '-' && *(p+2) == boundary[0]) {
-            p += 2;
-            *offset += 2;
-            unsigned int i = 0;
-            for (i = 0; i < strlen(boundary) && p[0] == boundary[i]; i++) {
-                p++;
-                *offset += 1;
-            }
-            if (i == strlen(boundary)) {
-                ret++;
-                //printf("ret = %d\n", ret);
-            }
-        }
-        while (*p++ != '\n' && *p != '\r' && *offset < *st_size) {
-            *offset += 1;
-        }
-        while (*p == '\n' || *p == '\r') {
-            *offset += 1;
-            p++;
+        if (c == ';') {
+            return 1;
         }
     }
-    return ret/2;
+    return 0;
 }
 
-int search_parts(char *content_type, char *p, off_t *offset, const off_t *st_size) {
-    if (!content_type) {
-        return 0;
-    }
-    char *boundary = "boundary=";
-    if (content_type[0] == 'm') {
-        for (unsigned int i = 0; i < strlen(content_type); i++, content_type++) {
-            if (content_type[0] == 'b') {
-                for (int j = 0; content_type[0] == boundary[j]; j++) {
-                    content_type++;
-                }
-                if (content_type[0] == '"') {
-                    content_type++;
-                    content_type[strlen(content_type)-1] = '\0';
-                }
-                break;
+int search_amount_parts(const char *content_type, const char *letter, const off_t *size_letter) {
+    char *p_boundary = strcasestr(content_type, "multipart");
+
+    if (p_boundary) {
+        p_boundary = strcasestr(letter, "boundary=");
+
+        if (p_boundary) {
+            unsigned int amount_boundary = 0;
+            char *p_boundary_end = p_boundary;
+            p_boundary += 9;
+
+            while (!str_finished_symbol(*p_boundary_end, 2)) {
+                p_boundary_end++;
             }
+
+            if (*p_boundary == '"') {
+                p_boundary++;
+                p_boundary_end--;
+            }
+
+            off_t boundary_size = p_boundary_end - p_boundary;
+
+            char *boundary = (char *)malloc(boundary_size + 1);
+            memcpy(boundary, p_boundary, boundary_size);
+            boundary[boundary_size] = '\0';
+            off_t remaining_size_letter = *size_letter - (p_boundary - letter);
+
+            while (remaining_size_letter > boundary_size) {
+                p_boundary = memmem(p_boundary+1, remaining_size_letter, boundary, boundary_size);
+
+                if (!p_boundary) {
+                    if (amount_boundary == 0 || remaining_size_letter > 2 * boundary_size) {
+                        amount_boundary++;
+                    }
+
+                    break;
+                }
+
+                remaining_size_letter = *size_letter - (p_boundary - letter);
+                p_boundary_end = p_boundary + boundary_size;
+                amount_boundary++;
+            }
+
+            free(boundary);
+
+            return amount_boundary - 1;
         }
-        return search_content(content_type, p, offset, st_size);
     }
+
     return 1;
 }
 
@@ -72,16 +83,21 @@ int main(int argc, const char **argv) {
     }
 
     const char *path_to_eml = argv[1];
-    //puts(path_to_eml);
-
     FILE* f = fopen(path_to_eml, "r");
-    if (!f)
-    {
+    if (!f) {
         return -1;
     }
 
     struct stat st;
     fstat(fileno(f), &st);
+    char *p = NULL;
+    off_t offset = 0;
+    char *search_field[12] = {
+            "From:",
+            "To:",
+            "Date:",
+            "Content-Type:",
+    };
 
     char* letter = mmap(
             NULL,
@@ -91,91 +107,92 @@ int main(int argc, const char **argv) {
             fileno(f),
             0
     );
+    fclose(f);
     if (letter == MAP_FAILED) {
         return -2;
     }
 
-    char *p = letter;
-    off_t offset = 0;
-    char *search_field[12] = {
-            "From:",
-            "To:",
-            "Date:",
-            "Content-Type:",
-            "boundary="
-    };
     char **data = calloc(4, sizeof(char*));
     if (!data) {
         return 1;
     }
 
+    for (int i = 0; i < 4; i++) {
+        p = memmem(letter, st.st_size, search_field[i], strlen(search_field[i]));
 
-    int amount_str = 0;
-    while (offset < st.st_size && *p != '\n' && *p != '\r') {
-        //printf("offset = %ld p = %d\n", offset, *p);
-        //printf("state = %c\n", *p);
-        for (unsigned int i = 0; i < 4; i++) {  // поиск искомых строк
-            if (search_field[i][0] == *p && !data[i]) {
-                unsigned int j = 0;
-                for (j = 0; j < strlen(search_field[i]) && *p++ == search_field[i][j]; j++) {
-                    offset++;
-                }
-                while (*p == ' ') {  // избавляемся от лишних пробелов после заголовка
-                    p++;
-                    offset++;
-                }
+        if (!p) {
+            continue;
+        }
 
-                if (j == strlen(search_field[i])) {  // запись при находе
-                    data[i] = calloc(1, strlen(p));
-                    for (unsigned int k = 0; ; k++, offset++, p++) {
-                        if (!data[i]) {
-                            return 1;
-                        }
-                        if (*p == '\n') {
-                            //offset++;
-                            //p++;
-                            amount_str++;
-                            if (*(p+1) != ' ') {
-                                break;
-                            }
-                            while (*(p+1) == ' ') {
-                                offset++;
-                                p++;
-                            }
-                        }
-                        data[i][k] = *p;
-                    }
-                }
+        if (p != letter) {
+            while (*(p - 1) != '\n' && *(p - 1) != '\r') {
+                size_t remaining_size_letter = st.st_size - (p - letter);
+                p = memmem(p + 1, remaining_size_letter, search_field[i], strlen(search_field[i]));
             }
         }
-        while (*p++ != '\n' && *p != '\r') {
-            offset++;
-            //printf("size = %ld, offset = %ld\n", st.st_size, offset);
-        }
-        /*if (*p == '\n' || *p == '\r') {
+
+        p += strlen(search_field[i]);
+
+        while (*p == ' ') {
             p++;
-        }*/
-        amount_str++;
+            offset++;
+        }
+
+        char *p_copy = p;
+        offset = p - letter;
+        data[i] = calloc(1, strlen(p_copy));
+        if (!data[i]) {
+            for (int k = i - 1; k > 0; k--) {
+                free(data[k]);
+            }
+            free(data);
+            return 1;
+        }
+
+        for (unsigned int k = 0; offset < st.st_size; k++) {
+            while (str_finished_symbol(*p_copy, 0) && str_finished_symbol(*(p_copy+1), 0)) {
+                if (offset == st.st_size) {
+                    break;
+                }
+                p_copy++;
+                offset++;
+            }
+            if (str_finished_symbol(*p_copy, 0)) {
+                p_copy++;
+                offset++;
+
+                if (*p_copy != ' ') {
+                    break;
+                }
+                while (*(p_copy+1) == ' ') {
+                    p_copy++;
+                    offset++;
+                }
+            }
+
+            data[i][k] = *p_copy;
+            p_copy++;
+            offset++;
+        }
     }
 
-    //printf("str = %d\n", amount_str);
-    /*
-    for (int i = 0; i < 4; i++) {
-        printf("%s%s\n", search_field[i], data[i]);
-    }
-    */
+    int amount_content = 1;
 
-    while (*p++ == '\n' && *p == '\r') {
-        offset++;
+    if (data[3]) {
+        amount_content = search_amount_parts(data[3], letter, &st.st_size);
     }
-    int amount_content = search_parts(data[3], p, &offset, &st.st_size);
+
     for (int i = 0; i < 3; i++) {
+        if (!data[i]) {
+            putchar('|');
+            continue;
+        }
         printf("%s|", data[i]);
-        //printf("%s%s\n", search_field[i], data[i]);
         free(data[i]);
     }
     printf("%d", amount_content);
     puts("");
+    free(data[3]);
     free(data);
 
     return 0;
