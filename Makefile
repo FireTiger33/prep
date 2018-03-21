@@ -5,7 +5,7 @@ HDRS = \
 	   project/include
 
 SRCS = \
-       project/src/main1.c
+       project/src/main.c
 
 .PHONY: all clean
 

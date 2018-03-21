@@ -105,9 +105,9 @@ int main(int argc, const char **argv) {
             PROT_READ,
             MAP_PRIVATE | MAP_FILE,
             fileno(f),
-            0
-    );
+            0);
     fclose(f);
+
     if (letter == MAP_FAILED) {
         return -2;
     }
