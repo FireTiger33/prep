@@ -255,7 +255,6 @@ shield found
 Supported actions:
  * move left
  * move right
- * pick shield
  * throw shield
 7 x 0, hp: 40, armor: 5 > 
 the shield is thrown out
@@ -793,4 +792,4 @@ Supported actions:
 14 x 0, hp: 8, armor: 0 > 
 player died
 "
-KEYS="-map btests/maps/stage2/48.map"
+KEYS="--map btests/maps/stage2/48.map"

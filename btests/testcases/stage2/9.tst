@@ -1454,7 +1454,6 @@ Supported actions:
  * move left
  * move down
  * move up
- * pick helmet
  * throw helmet
 1 x 9, hp: 8, armor: 3 > 
 moved
@@ -2806,7 +2805,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw helmet
 0 x 14, hp: 8, armor: 3 > 
 moved
@@ -8191,7 +8189,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
  * throw shield
 0 x 15, hp: 8, armor: 8 > 
@@ -8249,4 +8246,4 @@ Supported actions:
 1 x 18, hp: 8, armor: 0 > 
 player died
 "
-KEYS="-map btests/maps/stage2/9.map"
+KEYS="--map btests/maps/stage2/9.map"

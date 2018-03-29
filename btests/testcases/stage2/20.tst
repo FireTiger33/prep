@@ -363,7 +363,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick shield
  * throw pants
  * throw shield
 0 x 5, hp: 61, armor: 6 > 
@@ -854,7 +853,6 @@ Supported actions:
  * move left
  * move down
  * move up
- * pick pants
  * throw T-Shirt
  * throw pants
 1 x 8, hp: 53, armor: 2 > 
@@ -1097,7 +1095,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick T-Shirt
  * throw T-Shirt
  * throw pants
 0 x 9, hp: 53, armor: 2 > 
@@ -1447,4 +1444,4 @@ Supported actions:
 1 x 12, hp: 9, armor: 2 > 
 player died
 "
-KEYS="-map btests/maps/stage2/20.map"
+KEYS="--map btests/maps/stage2/20.map"

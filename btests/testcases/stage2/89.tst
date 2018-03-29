@@ -17033,4 +17033,4 @@ moved
 Supported actions:
  * move up
 0 x 0, hp: 100, armor: 0 > "
-KEYS="-map btests/maps/stage2/89.map"
+KEYS="--map btests/maps/stage2/89.map"

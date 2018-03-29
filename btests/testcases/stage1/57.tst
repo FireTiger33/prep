@@ -8082,4 +8082,4 @@ moved
 Supported actions:
  * move left
 1 x 0, hp: 88 > "
-KEYS="-map btests/maps/stage1/57.map"
+KEYS="--map btests/maps/stage1/57.map"

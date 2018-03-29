@@ -9348,7 +9348,6 @@ Supported actions:
  * move left
  * move right
  * move up
- * pick armor
  * throw armor
 3 x 0, hp: 14, armor: 3 > 
 moved
@@ -66765,4 +66764,4 @@ Supported actions:
  * move down
  * move up
 4 x 3, hp: 2, armor: 0 > "
-KEYS="-map btests/maps/stage2/7.map"
+KEYS="--map btests/maps/stage2/7.map"

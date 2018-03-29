@@ -526,7 +526,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw armor
  * throw helmet
 5 x 8, hp: 12, armor: 6 > 
@@ -552,7 +551,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
  * throw helmet
 6 x 8, hp: 12, armor: 6 > 
@@ -562,7 +560,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
 6 x 8, hp: 12, armor: 3 > 
 the armor is thrown out
@@ -590,4 +587,4 @@ Supported actions:
 6 x 6, hp: 6, armor: 0 > 
 player died
 "
-KEYS="-map btests/maps/stage2/6.map"
+KEYS="--map btests/maps/stage2/6.map"

@@ -23647,4 +23647,4 @@ moved
 Supported actions:
  * move right
 0 x 0, hp: 100 > "
-KEYS="-map btests/maps/stage1/79.map"
+KEYS="--map btests/maps/stage1/79.map"

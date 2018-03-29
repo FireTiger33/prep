@@ -369,7 +369,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick shield
  * throw shield
 5 x 4, hp: 70, armor: 5 > 
 T-Shirt found
@@ -1535,4 +1534,4 @@ Supported actions:
 5 x 9, hp: 5, armor: 1 > 
 player died
 "
-KEYS="-map btests/maps/stage2/17.map"
+KEYS="--map btests/maps/stage2/17.map"

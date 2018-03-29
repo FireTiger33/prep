@@ -745,7 +745,6 @@ Supported actions:
  * move left
  * move right
  * move up
- * pick pants
  * throw pants
 2 x 0, hp: 100, armor: 1 > 
 moved
@@ -995,7 +994,6 @@ Supported actions:
  * move left
  * move right
  * move up
- * pick pants
  * throw pants
 5 x 0, hp: 90, armor: 1 > 
 moved
@@ -1057,7 +1055,6 @@ Supported actions:
  * move left
  * move right
  * move up
- * pick pants
  * throw pants
 8 x 0, hp: 90, armor: 1 > 
 the pants is thrown out
@@ -1784,7 +1781,6 @@ Supported actions:
  * move left
  * move right
  * move up
- * pick armor
  * throw armor
 17 x 0, hp: 50, armor: 3 > 
 the armor is thrown out
@@ -4867,4 +4863,4 @@ Supported actions:
  * move right
  * move up
 1 x 0, hp: 46, armor: 9 > "
-KEYS="-map btests/maps/stage2/32.map"
+KEYS="--map btests/maps/stage2/32.map"

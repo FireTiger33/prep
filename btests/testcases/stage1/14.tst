@@ -6,18 +6,10 @@ kick enemy
 kick enemy
 kick enemy
 move up
+move down
+move up
 move up
 kick enemy
-move up
-move down
-move down
-move up
-move up
-move down
-move down
-move down
-move up
-move up
 move up
 move up
 kick enemy
@@ -62,50 +54,6 @@ Supported actions:
  * move down
  * move up
 0 x 2, hp: 45 > 
-rat found, 1 hp
-Supported actions:
- * kick enemy
-0 x 3, hp: 45 > 
-enemy killed
-Supported actions:
- * move down
- * move up
-0 x 3, hp: 45 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 4, hp: 45 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 3, hp: 45 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 2, hp: 45 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 3, hp: 45 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 4, hp: 45 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 3, hp: 45 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 2, hp: 45 > 
 moved
 Supported actions:
  * move down
@@ -116,7 +64,11 @@ Supported actions:
  * move down
  * move up
 0 x 2, hp: 45 > 
-moved
+rat found, 1 hp
+Supported actions:
+ * kick enemy
+0 x 3, hp: 45 > 
+enemy killed
 Supported actions:
  * move down
  * move up
@@ -148,4 +100,4 @@ Supported actions:
 0 x 5, hp: 1 > 
 player died
 "
-KEYS="-map btests/maps/stage1/14.map"
+KEYS="--map btests/maps/stage1/14.map"

@@ -5164,7 +5164,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick shield
  * throw T-Shirt
  * throw shield
 0 x 3, hp: 100, armor: 6 > 
@@ -5221,7 +5220,6 @@ T-Shirt found
 Supported actions:
  * move right
  * move down
- * pick T-Shirt
  * throw T-Shirt
  * throw shield
 0 x 4, hp: 100, armor: 6 > 
@@ -5229,7 +5227,6 @@ the shield is thrown out
 Supported actions:
  * move right
  * move down
- * pick T-Shirt
  * throw T-Shirt
 0 x 4, hp: 100, armor: 1 > 
 the T-Shirt is thrown out
@@ -37627,4 +37624,4 @@ Supported actions:
  * move right
  * move up
 0 x 0, hp: 45, armor: 0 > "
-KEYS="-map btests/maps/stage2/18.map"
+KEYS="--map btests/maps/stage2/18.map"

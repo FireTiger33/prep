@@ -2446,7 +2446,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw helmet
 5 x 6, hp: 21, armor: 3 > 
 the helmet is thrown out
@@ -2859,4 +2858,4 @@ Supported actions:
 9 x 4, hp: 4, armor: 0 > 
 player died
 "
-KEYS="-map btests/maps/stage2/61.map"
+KEYS="--map btests/maps/stage2/61.map"

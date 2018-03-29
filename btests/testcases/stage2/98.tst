@@ -668,7 +668,6 @@ Supported actions:
  * move left
  * move right
  * move up
- * pick T-Shirt
  * throw T-Shirt
 10 x 0, hp: 100, armor: 1 > 
 moved
@@ -2920,4 +2919,4 @@ Supported actions:
 15 x 1, hp: 10, armor: 1 > 
 player died
 "
-KEYS="-map btests/maps/stage2/98.map"
+KEYS="--map btests/maps/stage2/98.map"

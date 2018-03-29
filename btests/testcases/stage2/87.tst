@@ -9,4 +9,4 @@ Supported actions:
  * move right
  * move down
 0 x 1, hp: 100, armor: 0 > "
-KEYS="-map btests/maps/stage2/87.map"
+KEYS="--map btests/maps/stage2/87.map"

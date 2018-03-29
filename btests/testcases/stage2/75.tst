@@ -2773,7 +2773,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick pants
  * throw pants
 0 x 24, hp: 21, armor: 1 > 
 moved
@@ -2859,7 +2858,6 @@ Supported actions:
  * move left
  * move down
  * move up
- * pick pants
  * throw pants
 1 x 25, hp: 21, armor: 1 > 
 moved
@@ -4255,4 +4253,4 @@ Supported actions:
 1 x 35, hp: 1, armor: 6 > 
 player died
 "
-KEYS="-map btests/maps/stage2/75.map"
+KEYS="--map btests/maps/stage2/75.map"

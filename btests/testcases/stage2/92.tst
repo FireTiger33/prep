@@ -474,7 +474,6 @@ helmet found
 Supported actions:
  * move left
  * move right
- * pick helmet
  * throw helmet
 3 x 0, hp: 100, armor: 3 > 
 the helmet is thrown out
@@ -2407,4 +2406,4 @@ Supported actions:
 20 x 0, hp: 1, armor: 0 > 
 player died
 "
-KEYS="-map btests/maps/stage2/92.map"
+KEYS="--map btests/maps/stage2/92.map"

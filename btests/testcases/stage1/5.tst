@@ -168,4 +168,4 @@ Supported actions:
 1 x 0, hp: 1 > 
 player died
 "
-KEYS="-map btests/maps/stage1/5.map"
+KEYS="--map btests/maps/stage1/5.map"

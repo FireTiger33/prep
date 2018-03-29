@@ -525,7 +525,6 @@ helmet found
 Supported actions:
  * move down
  * move up
- * pick helmet
  * throw helmet
 0 x 7, hp: 60, armor: 3 > 
 armor found
@@ -1833,7 +1832,6 @@ helmet found
 Supported actions:
  * move down
  * move up
- * pick helmet
  * throw helmet
 0 x 22, hp: 20, armor: 3 > 
 moved
@@ -2437,7 +2435,6 @@ pants found
 Supported actions:
  * move down
  * move up
- * pick pants
  * throw pants
 0 x 39, hp: 8, armor: 1 > 
 dog found, 3 hp
@@ -2450,4 +2447,4 @@ Supported actions:
 0 x 40, hp: 3, armor: 1 > 
 player died
 "
-KEYS="-map btests/maps/stage2/47.map"
+KEYS="--map btests/maps/stage2/47.map"

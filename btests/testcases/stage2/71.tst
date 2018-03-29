@@ -227,7 +227,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick shield
  * throw armor
  * throw shield
 0 x 3, hp: 70, armor: 8 > 
@@ -324,7 +323,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
  * throw shield
 1 x 4, hp: 70, armor: 8 > 
@@ -341,7 +339,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick shield
  * throw armor
  * throw shield
 2 x 5, hp: 70, armor: 8 > 
@@ -823,4 +820,4 @@ Supported actions:
 7 x 7, hp: 4, armor: 1 > 
 player died
 "
-KEYS="-map btests/maps/stage2/71.map"
+KEYS="--map btests/maps/stage2/71.map"

@@ -2741,7 +2741,6 @@ pants found
 Supported actions:
  * move down
  * move up
- * pick pants
  * throw helmet
  * throw pants
 0 x 21, hp: 88, armor: 4 > 
@@ -2749,7 +2748,6 @@ pants found
 Supported actions:
  * move down
  * move up
- * pick pants
  * throw helmet
  * throw pants
 0 x 22, hp: 88, armor: 4 > 
@@ -3151,7 +3149,6 @@ helmet found
 Supported actions:
  * move down
  * move up
- * pick helmet
  * throw helmet
  * throw pants
 0 x 25, hp: 84, armor: 4 > 
@@ -4681,4 +4678,4 @@ Supported actions:
 0 x 48, hp: 1, armor: 0 > 
 player died
 "
-KEYS="-map btests/maps/stage2/14.map"
+KEYS="--map btests/maps/stage2/14.map"

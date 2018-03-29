@@ -2435,7 +2435,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick shield
  * throw shield
 0 x 10, hp: 45, armor: 5 > 
 moved
@@ -2581,7 +2580,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick shield
  * throw shield
 0 x 12, hp: 45, armor: 5 > 
 rat found, 1 hp
@@ -7553,4 +7551,4 @@ Supported actions:
 1 x 29, hp: 11, armor: 0 > 
 player died
 "
-KEYS="-map btests/maps/stage2/97.map"
+KEYS="--map btests/maps/stage2/97.map"

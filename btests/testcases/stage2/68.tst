@@ -28033,4 +28033,4 @@ moved
 Supported actions:
  * move left
 1 x 0, hp: 100, armor: 1 > "
-KEYS="-map btests/maps/stage2/68.map"
+KEYS="--map btests/maps/stage2/68.map"

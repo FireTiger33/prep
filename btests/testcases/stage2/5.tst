@@ -370,7 +370,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick T-Shirt
  * throw T-Shirt
 2 x 2, hp: 90, armor: 1 > 
 moved
@@ -627,7 +626,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw helmet
 7 x 4, hp: 78, armor: 3 > 
 moved
@@ -673,7 +671,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw helmet
 7 x 6, hp: 78, armor: 3 > 
 dog found, 3 hp
@@ -806,4 +803,4 @@ Supported actions:
 9 x 9, hp: 2, armor: 3 > 
 player died
 "
-KEYS="-map btests/maps/stage2/5.map"
+KEYS="--map btests/maps/stage2/5.map"

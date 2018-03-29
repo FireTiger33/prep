@@ -249,7 +249,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw helmet
 1 x 1, hp: 100, armor: 3 > 
 pants found
@@ -317,7 +316,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw helmet
 3 x 1, hp: 100, armor: 3 > 
 dog found, 3 hp
@@ -526,7 +524,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw armor
  * throw helmet
 1 x 2, hp: 69, armor: 6 > 
@@ -993,7 +990,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
  * throw helmet
  * throw shield
@@ -1004,7 +1000,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
  * throw shield
 1 x 8, hp: 54, armor: 8 > 
@@ -1014,7 +1009,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
 1 x 8, hp: 54, armor: 3 > 
 wolf found, 6 hp
@@ -1089,7 +1083,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
 3 x 11, hp: 14, armor: 3 > 
 the armor is thrown out
@@ -1525,4 +1518,4 @@ Supported actions:
 4 x 0, hp: 6, armor: 3 > 
 player died
 "
-KEYS="-map btests/maps/stage2/38.map"
+KEYS="--map btests/maps/stage2/38.map"

@@ -6168,7 +6168,6 @@ Supported actions:
  * move left
  * move right
  * move up
- * pick shield
  * throw T-Shirt
  * throw helmet
  * throw shield
@@ -6178,7 +6177,6 @@ Supported actions:
  * move left
  * move right
  * move down
- * pick T-Shirt
  * throw T-Shirt
  * throw helmet
  * throw shield
@@ -6232,4 +6230,4 @@ Supported actions:
 20 x 0, hp: 2, armor: 5 > 
 player died
 "
-KEYS="-map btests/maps/stage2/43.map"
+KEYS="--map btests/maps/stage2/43.map"

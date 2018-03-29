@@ -717,4 +717,4 @@ Supported actions:
  * move down
  * move up
 1 x 5, hp: 9, armor: 0 > "
-KEYS="-map btests/maps/stage2/64.map"
+KEYS="--map btests/maps/stage2/64.map"

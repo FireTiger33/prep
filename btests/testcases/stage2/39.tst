@@ -815,7 +815,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
  * throw helmet
 7 x 1, hp: 58, armor: 6 > 
@@ -825,7 +824,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick armor
  * throw armor
 7 x 1, hp: 58, armor: 3 > 
 wolf found, 6 hp
@@ -966,4 +964,4 @@ Supported actions:
 6 x 1, hp: 2, armor: 3 > 
 player died
 "
-KEYS="-map btests/maps/stage2/39.map"
+KEYS="--map btests/maps/stage2/39.map"

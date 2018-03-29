@@ -800,4 +800,4 @@ Supported actions:
 2 x 3, hp: 5 > 
 player died
 "
-KEYS="-map btests/maps/stage1/62.map"
+KEYS="--map btests/maps/stage1/62.map"

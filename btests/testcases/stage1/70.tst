@@ -1756,4 +1756,4 @@ Supported actions:
 10 x 0, hp: 9 > 
 player died
 "
-KEYS="-map btests/maps/stage1/70.map"
+KEYS="--map btests/maps/stage1/70.map"

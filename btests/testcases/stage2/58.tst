@@ -2633,4 +2633,4 @@ Supported actions:
 0 x 25, hp: 7, armor: 3 > 
 player died
 "
-KEYS="-map btests/maps/stage2/58.map"
+KEYS="--map btests/maps/stage2/58.map"

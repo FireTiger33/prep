@@ -685,7 +685,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw helmet
 2 x 6, hp: 33, armor: 3 > 
 T-Shirt found
@@ -1041,7 +1040,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick helmet
  * throw T-Shirt
  * throw armor
  * throw helmet
@@ -1308,7 +1306,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick shield
  * throw T-Shirt
  * throw armor
  * throw shield
@@ -1599,7 +1596,6 @@ Supported actions:
  * move right
  * move down
  * move up
- * pick T-Shirt
  * throw T-Shirt
  * throw armor
  * throw pants
@@ -1670,4 +1666,4 @@ Supported actions:
 7 x 3, hp: 5, armor: 5 > 
 player died
 "
-KEYS="-map btests/maps/stage2/72.map"
+KEYS="--map btests/maps/stage2/72.map"

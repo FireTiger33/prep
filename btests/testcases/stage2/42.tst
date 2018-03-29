@@ -2222,7 +2222,6 @@ Supported actions:
  * move left
  * move down
  * move up
- * pick shield
  * throw pants
  * throw shield
 1 x 9, hp: 64, armor: 6 > 
@@ -2373,7 +2372,6 @@ Supported actions:
  * move left
  * move down
  * move up
- * pick pants
  * throw pants
 1 x 12, hp: 64, armor: 1 > 
 moved
@@ -4359,7 +4357,6 @@ Supported actions:
  * move left
  * move down
  * move up
- * pick pants
  * throw pants
 1 x 18, hp: 54, armor: 1 > 
 wolf found, 6 hp
@@ -10751,4 +10748,4 @@ Supported actions:
 0 x 26, hp: 4, armor: 3 > 
 player died
 "
-KEYS="-map btests/maps/stage2/42.map"
+KEYS="--map btests/maps/stage2/42.map"

@@ -30917,4 +30917,4 @@ moved
 Supported actions:
  * move down
 0 x 1, hp: 45 > "
-KEYS="-map btests/maps/stage1/23.map"
+KEYS="--map btests/maps/stage1/23.map"
