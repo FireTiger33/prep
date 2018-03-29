@@ -44,7 +44,7 @@ Supported actions:
 
 Таким образом, начало игры выглядит так:
 ```bash
-$ ./main.out -map my.map
+$ ./main.out --map my.map
 Supported actions:
  * move right
  * move up
@@ -66,7 +66,7 @@ Supported actions:
 
 Продолжим игру, начатую раньше, и пойдём вправо.
 ```bash
-$ ./main.out -map my.map
+$ ./main.out --map my.map
 Supported actions:
  * move right
  * move up
@@ -107,7 +107,7 @@ Supported actions:
 <координата_X> <координата_Y> <имя_врага_N>
 ```
 
-Карта передается программе с помощью ключа -map.
+Карта передается программе с помощью ключа --map.
 
 ### Подробный пример игрового процесса
 Имеем карту 5x5test.map:
@@ -130,7 +130,7 @@ Supported actions:
 
 Запуск игры и игра:
 ```bash
-$ ./main.out -map 5x5test.map
+$ ./main.out --map 5x5test.map
 Supported actions:
  * move right
  * move up
@@ -287,7 +287,7 @@ Supported actions:
 
 Программа вызывается с указанием карты:
 ```bash
-$ ./main.out -map btests/maps/stage1/1.map
+$ ./main.out --map btests/maps/stage1/1.map
 ```
 
 На вход программе подается список действий для игрока вида:
