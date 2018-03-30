@@ -2410,6 +2410,6194 @@ move up
 move down
 move up
 move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
 move up"
 OUT="Supported actions:
  * move up
@@ -2439,6 +8627,24758 @@ Supported actions:
  * kick enemy
 0 x 1, hp: 45, armor: 0 > 
 enemy killed
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 45, armor: 0 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45, armor: 0 > 
+moved
 Supported actions:
  * move down
 0 x 1, hp: 45, armor: 0 > 

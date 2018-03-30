@@ -7,8 +7,10 @@ kick enemy
 kick enemy
 kick enemy
 move left
+move left
 move right
 move left
+move right
 move right
 move right
 kick enemy
@@ -60,9 +62,17 @@ Supported actions:
 1 x 0, hp: 45 > 
 moved
 Supported actions:
+ * move right
+0 x 0, hp: 45 > 
+moved
+Supported actions:
  * move left
  * move right
-2 x 0, hp: 45 > 
+1 x 0, hp: 45 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 45 > 
 moved
 Supported actions:
  * move left

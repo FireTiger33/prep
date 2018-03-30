@@ -10,8 +10,6 @@ kick enemy
 kick enemy
 kick enemy
 move down
-move up
-move down
 move right
 kick enemy
 kick enemy
@@ -63,18 +61,6 @@ Supported actions:
  * kick enemy
 0 x 2, hp: 33 > 
 enemy killed
-Supported actions:
- * move right
- * move down
- * move up
-0 x 2, hp: 33 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 33 > 
-moved
 Supported actions:
  * move right
  * move down

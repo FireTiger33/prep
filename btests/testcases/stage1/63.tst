@@ -5,14 +5,22 @@ kick enemy
 kick enemy
 kick enemy
 kick enemy
+move left
+move right
+move right
+kick enemy
+kick enemy
+kick enemy
+move left
+move left
 move up
+kick enemy
+kick enemy
+kick enemy
+move right
+move right
 move down
 move right
-kick enemy
-kick enemy
-kick enemy
-move right
-kick enemy
 kick enemy
 kick enemy"
 OUT="Supported actions:
@@ -51,11 +59,9 @@ Supported actions:
 1 x 0, hp: 45 > 
 moved
 Supported actions:
- * move left
  * move right
- * move down
  * move up
-1 x 1, hp: 45 > 
+0 x 0, hp: 45 > 
 moved
 Supported actions:
  * move left
@@ -80,18 +86,63 @@ Supported actions:
  * move right
  * move up
 2 x 0, hp: 33 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+1 x 0, hp: 33 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 33 > 
+dog found, 3 hp
+Supported actions:
+ * kick enemy
+0 x 1, hp: 33 > 
+enemy kicked. Enemy hp: 2
+Supported actions:
+ * kick enemy
+0 x 1, hp: 27 > 
+enemy kicked. Enemy hp: 1
+Supported actions:
+ * kick enemy
+0 x 1, hp: 21 > 
+enemy killed
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 21 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+1 x 1, hp: 21 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+2 x 1, hp: 21 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+2 x 0, hp: 21 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy
-3 x 0, hp: 33 > 
+3 x 0, hp: 21 > 
 enemy kicked. Enemy hp: 5
 Supported actions:
  * kick enemy
-3 x 0, hp: 22 > 
-enemy kicked. Enemy hp: 4
-Supported actions:
- * kick enemy
-3 x 0, hp: 11 > 
+3 x 0, hp: 10 > 
 player died
 "
 KEYS="--map btests/maps/stage1/63.map"

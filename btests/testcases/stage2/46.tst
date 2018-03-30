@@ -6544,7 +6544,770 @@ move left
 move right
 move left
 move right
-move left"
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right"
 OUT="Supported actions:
  * move right
 0 x 0, hp: 100, armor: 0 > 
@@ -32732,5 +33495,3057 @@ Supported actions:
 moved
 Supported actions:
  * move left
-1 x 0, hp: 100, armor: 3 > "
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 3 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 100, armor: 3 > "
 KEYS="--map btests/maps/stage2/46.map"

@@ -5,14 +5,64 @@ kick enemy
 kick enemy
 kick enemy
 kick enemy
+move down
 move up
 move down
 move up
 move up
-kick enemy
-move up
 move up
 kick enemy
+kick enemy
+move down
+move down
+move down
+move up
+move up
+move down
+move down
+move up
+move down
+move up
+move up
+move up
+move down
+move down
+move up
+move up
+move down
+move down
+move up
+move up
+move down
+move up
+move up
+move down
+move down
+move down
+move down
+move up
+move down
+move up
+move up
+move down
+move down
+move up
+move up
+move down
+move down
+move up
+move up
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move up
+move down
+move up
+move up
 kick enemy
 kick enemy
 kick enemy
@@ -51,9 +101,17 @@ Supported actions:
 0 x 1, hp: 45 > 
 moved
 Supported actions:
+ * move up
+0 x 0, hp: 45 > 
+moved
+Supported actions:
  * move down
  * move up
-0 x 2, hp: 45 > 
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45 > 
 moved
 Supported actions:
  * move down
@@ -64,40 +122,273 @@ Supported actions:
  * move down
  * move up
 0 x 2, hp: 45 > 
-rat found, 1 hp
+rat found, 2 hp
 Supported actions:
  * kick enemy
 0 x 3, hp: 45 > 
+enemy kicked. Enemy hp: 1
+Supported actions:
+ * kick enemy
+0 x 3, hp: 41 > 
 enemy killed
 Supported actions:
  * move down
  * move up
-0 x 3, hp: 45 > 
+0 x 3, hp: 41 > 
 moved
 Supported actions:
  * move down
  * move up
-0 x 4, hp: 45 > 
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 4, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 4, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 4, hp: 41 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy
-0 x 5, hp: 45 > 
+0 x 5, hp: 41 > 
 enemy kicked. Enemy hp: 5
 Supported actions:
  * kick enemy
-0 x 5, hp: 34 > 
+0 x 5, hp: 30 > 
 enemy kicked. Enemy hp: 4
 Supported actions:
  * kick enemy
-0 x 5, hp: 23 > 
+0 x 5, hp: 19 > 
 enemy kicked. Enemy hp: 3
 Supported actions:
  * kick enemy
-0 x 5, hp: 12 > 
-enemy kicked. Enemy hp: 2
-Supported actions:
- * kick enemy
-0 x 5, hp: 1 > 
+0 x 5, hp: 8 > 
 player died
 "
 KEYS="--map btests/maps/stage1/14.map"

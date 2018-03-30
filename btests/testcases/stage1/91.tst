@@ -1,24 +1,12 @@
 IN="move up
-move up
-move down
-move down
-move up
-move up
-move down
 move down
 move up
 move down
 move up
 move up
 move down
-move down
 move up
 move down
-move up
-move up
-move down
-move down
-move up
 move up
 move up
 kick enemy
@@ -29,6 +17,44 @@ kick enemy
 kick enemy
 move down
 move up
+move up
+move down
+move down
+move up
+move down
+move down
+move down
+move up
+move up
+move down
+move down
+move up
+move down
+move up
+move up
+move down
+move down
+move up
+move up
+move down
+move up
+move down
+move down
+move up
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move up
+move down
+move up
+move down
+move up
+move up
+move down
 move up
 move up
 kick enemy
@@ -46,35 +72,6 @@ Supported actions:
 0 x 1, hp: 100 > 
 moved
 Supported actions:
- * move down
- * move up
-0 x 2, hp: 100 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 1, hp: 100 > 
-moved
-Supported actions:
- * move up
-0 x 0, hp: 100 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 1, hp: 100 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 2, hp: 100 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 1, hp: 100 > 
-moved
-Supported actions:
  * move up
 0 x 0, hp: 100 > 
 moved
@@ -103,36 +100,9 @@ Supported actions:
 0 x 1, hp: 100 > 
 moved
 Supported actions:
- * move up
-0 x 0, hp: 100 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 1, hp: 100 > 
-moved
-Supported actions:
- * move up
-0 x 0, hp: 100 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 1, hp: 100 > 
-moved
-Supported actions:
  * move down
  * move up
 0 x 2, hp: 100 > 
-moved
-Supported actions:
- * move down
- * move up
-0 x 1, hp: 100 > 
-moved
-Supported actions:
- * move up
-0 x 0, hp: 100 > 
 moved
 Supported actions:
  * move down
@@ -177,6 +147,191 @@ Supported actions:
  * move down
  * move up
 0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 4, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 1, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 2, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 3, hp: 45 > 
+moved
+Supported actions:
+ * move down
+ * move up
+0 x 4, hp: 45 > 
 moved
 Supported actions:
  * move down

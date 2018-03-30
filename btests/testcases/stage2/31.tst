@@ -1,32 +1,12 @@
 IN="move right
-move up
 move left
 move right
-move down
 move left
 move up
 move right
-move down
-move up
 move up
 move down
-move down
 move up
-move left
-move down
-move right
-move left
-move right
-move left
-move right
-move up
-move left
-move up
-move down
-move right
-move left
-move up
-move right
 move up
 kick enemy
 kick enemy
@@ -36,8 +16,60 @@ kick enemy
 kick enemy
 move left
 pick armor
+move down
+move down
+move right
+move down
+move up
+move up
+move down
+move up
+move left
+move right
+move down
+move left
+move up
+move down
+move down
+move right
+move up
+move left
+move up
+move down
+move down
+move right
+move left
+move up
+move up
+move down
+move right
+move left
 move up
 move right
+move down
+move up
+move left
+move down
+move right
+move up
+move down
+move up
+move down
+move left
+move right
+move left
+move down
+move right
+move left
+move up
+move up
+move right
+move down
+move down
+move up
+move up
+move up
+move up
 kick enemy
 kick enemy
 kick enemy
@@ -45,96 +77,143 @@ kick enemy
 kick enemy
 kick enemy
 move left
-move up
-move down
-move up
-move right
-move down
-move left
-move up
-move down
-move right
-move down
-move left
-move up
-move right
-move down
-move left
-move right
-move left
-move right
-move up
-move left
-move down
-move up
-move down
-move down
-move up
-move right
-move left
-move up
-move right
-move left
-move right
-move up
-move down
-move left
-move down
-move up
-move up
-move down
-move up
-move down
-move down
-move right
-move down
-move down
-move left
-move right
-move left
-move down
-move up
 move right
 move left
 move down
 move right
 move left
+move up
 move right
-move up
 move left
-move down
-move up
-move up
 move down
 move down
 move right
+move left
+move down
 move up
+move down
 move up
+move down
+move down
+move up
+move down
+move up
+move down
+move right
+move up
+move left
+move up
+move right
+move left
+move down
+move right
+move down
+move left
+move up
+move right
+move up
+move down
+move left
+move up
+move down
+move up
+move right
+move down
 move down
 move left
 move right
 move left
+move up
+move up
+move down
+move down
 move right
-move down
-move up
-move up
 move left
+move up
+move up
 move down
+move down
+move up
+move right
+move left
+move up
+move down
+move down
+move right
+move left
+move right
+move up
+move down
+move left
+move up
+move up
+move up
 move right
 move left
 move down
 move right
 move up
 move left
+move up
+move up
+move right
+move down
+move down
+move up
+move down
+move down
+move left
+move right
+move up
+move left
+move up
+move right
+move left
+move up
+move right
+move down
+move down
+move down
+move down
+move up
+move left
+move down
+move down
 move right
 move left
 move up
 move right
 move up
+move left
+move right
+move left
+move right
+move down
 move up
+move down
+move left
+move down
+move up
+move down
+move up
+move up
+move up
+move down
+move right
+move up
+move up
+move down
+move left
+move down
+move right
+move up
+move up
+move up
+move down
 move up
 move up
 move left
+kick enemy
 kick enemy
 move up
 kick enemy
@@ -148,25 +227,11 @@ Supported actions:
  * move left
  * move up
 1 x 0, hp: 100, armor: 0 > 
-helmet found
-Supported actions:
- * move left
- * move down
- * move up
- * pick helmet
-1 x 1, hp: 100, armor: 0 > 
 moved
 Supported actions:
  * move right
- * move down
  * move up
-0 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 100, armor: 0 > 
+0 x 0, hp: 100, armor: 0 > 
 moved
 Supported actions:
  * move left
@@ -183,22 +248,12 @@ Supported actions:
  * move down
  * move up
 0 x 1, hp: 100, armor: 0 > 
-moved
+helmet found
 Supported actions:
  * move left
  * move down
  * move up
-1 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move up
-1 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
+ * pick helmet
 1 x 1, hp: 100, armor: 0 > 
 moved
 Supported actions:
@@ -212,95 +267,6 @@ Supported actions:
  * move down
  * move up
 1 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move up
-1 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move up
-1 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move up
-1 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move up
-1 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 2, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 2, hp: 100, armor: 0 > 
 moved
 Supported actions:
  * move left
@@ -355,7 +321,309 @@ Supported actions:
  * move right
  * move down
  * move up
-0 x 4, hp: 45, armor: 3 > 
+0 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 45, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 45, armor: 3 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy
@@ -394,10 +662,446 @@ Supported actions:
 0 x 4, hp: 5, armor: 3 > 
 moved
 Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
  * move right
  * move down
  * move up
-0 x 5, hp: 5, armor: 3 > 
+0 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move up
+1 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 5, armor: 3 > 
 moved
 Supported actions:
  * move right
@@ -426,6 +1130,66 @@ Supported actions:
 1 x 4, hp: 5, armor: 3 > 
 moved
 Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
  * move right
  * move down
  * move up
@@ -436,150 +1200,6 @@ Supported actions:
  * move down
  * move up
 0 x 5, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 2, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 4, hp: 5, armor: 3 > 
 moved
 Supported actions:
  * move left
@@ -594,54 +1214,6 @@ Supported actions:
 1 x 4, hp: 5, armor: 3 > 
 moved
 Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 5, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 5, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 5, armor: 3 > 
-moved
-Supported actions:
  * move left
  * move down
  * move up
@@ -660,39 +1232,16 @@ Supported actions:
 1 x 1, hp: 5, armor: 3 > 
 moved
 Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
  * move left
  * move down
  * move up
-1 x 1, hp: 5, armor: 3 > 
+1 x 2, hp: 5, armor: 3 > 
 moved
 Supported actions:
  * move right
  * move down
  * move up
-0 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 5, armor: 3 > 
+0 x 2, hp: 5, armor: 3 > 
 moved
 Supported actions:
  * move right
@@ -716,15 +1265,75 @@ Supported actions:
 0 x 0, hp: 5, armor: 3 > 
 moved
 Supported actions:
- * move left
+ * move right
+ * move down
  * move up
-1 x 0, hp: 5, armor: 3 > 
+0 x 1, hp: 5, armor: 3 > 
 moved
 Supported actions:
  * move left
  * move down
  * move up
 1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 5, armor: 3 > 
 moved
 Supported actions:
  * move right
@@ -753,134 +1362,7 @@ Supported actions:
  * move right
  * move down
  * move up
-0 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move up
-1 x 0, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 2, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move up
-1 x 0, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 2, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 2, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move up
-1 x 0, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 5, armor: 3 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 5, armor: 3 > 
+0 x 3, hp: 5, armor: 3 > 
 moved
 Supported actions:
  * move right
@@ -899,6 +1381,54 @@ Supported actions:
  * move down
  * move up
 1 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 4, hp: 5, armor: 3 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 5, hp: 5, armor: 3 > 
 moved
 Supported actions:
  * move left
@@ -917,24 +1447,28 @@ Supported actions:
  * move down
  * move up
 1 x 6, hp: 5, armor: 3 > 
-rat found, 1 hp
+rat found, 2 hp
 Supported actions:
  * kick enemy
 0 x 6, hp: 5, armor: 3 > 
+enemy kicked. Enemy hp: 1
+Supported actions:
+ * kick enemy
+0 x 6, hp: 4, armor: 3 > 
 enemy killed
 Supported actions:
  * move right
  * move down
  * move up
-0 x 6, hp: 5, armor: 3 > 
+0 x 6, hp: 4, armor: 3 > 
 dog found, 3 hp
 Supported actions:
  * kick enemy
-0 x 7, hp: 5, armor: 3 > 
+0 x 7, hp: 4, armor: 3 > 
 enemy kicked. Enemy hp: 2
 Supported actions:
  * kick enemy
-0 x 7, hp: 2, armor: 3 > 
+0 x 7, hp: 1, armor: 3 > 
 player died
 "
 KEYS="--map btests/maps/stage2/31.map"

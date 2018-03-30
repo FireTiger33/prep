@@ -9,10 +9,7 @@ move up
 kick enemy
 kick enemy
 kick enemy
-move up
-kick enemy
 move right
-move down
 kick enemy
 kick enemy
 kick enemy"
@@ -68,23 +65,6 @@ Supported actions:
  * move down
  * move up
 0 x 2, hp: 33 > 
-rat found, 1 hp
-Supported actions:
- * kick enemy
-0 x 3, hp: 33 > 
-enemy killed
-Supported actions:
- * move right
- * move down
- * move up
-0 x 3, hp: 33 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
- * move up
-1 x 3, hp: 33 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy
