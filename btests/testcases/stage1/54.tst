@@ -5,14 +5,16 @@ kick enemy
 kick enemy
 kick enemy
 kick enemy
+move right
+kick enemy
+kick enemy
+kick enemy
+move left
+move down
+move up
 move down
 move right
-move left
 move up
-move right
-kick enemy
-kick enemy
-kick enemy
 move down
 move right
 kick enemy
@@ -51,27 +53,6 @@ Supported actions:
  * move right
  * move down
 0 x 1, hp: 45 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 45 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-1 x 0, hp: 45 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 45 > 
-moved
-Supported actions:
- * move right
- * move down
-0 x 1, hp: 45 > 
 dog found, 3 hp
 Supported actions:
  * kick enemy
@@ -85,6 +66,38 @@ Supported actions:
  * kick enemy
 1 x 1, hp: 33 > 
 enemy killed
+Supported actions:
+ * move left
+ * move right
+ * move down
+1 x 1, hp: 33 > 
+moved
+Supported actions:
+ * move right
+ * move down
+0 x 1, hp: 33 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 33 > 
+moved
+Supported actions:
+ * move right
+ * move down
+0 x 1, hp: 33 > 
+moved
+Supported actions:
+ * move right
+ * move up
+0 x 0, hp: 33 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+1 x 0, hp: 33 > 
+moved
 Supported actions:
  * move left
  * move right

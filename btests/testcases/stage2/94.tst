@@ -1,19 +1,43 @@
 IN="move right
-move right
-move up
-pick shield
-move right
-move up
 move left
 move up
+kick enemy
+kick enemy
+kick enemy
+move right
+pick T-Shirt
+move right
+move down
 move up
+move right
+move left
+move right
+move down
+kick enemy
+kick enemy
+kick enemy
+move up
+move right
+kick enemy
+kick enemy
+kick enemy
+move right
+pick helmet
+move left
+move right
+move down
+throw helmet
+pick armor
+move left
+move up
+move left
 move left
 move right
 move up
-move up
-pick pants
-move up
-throw shield
+throw armor
+throw T-Shirt
+move left
+move left
 move up
 kick enemy
 kick enemy
@@ -27,42 +51,52 @@ move up
 move left
 kick enemy
 kick enemy
+kick enemy
+move right
+move down
+move down
 move left
+move right
+move up
+move up
+move right
+move left
+move right
+move down
+move up
+move left
+move right
+move down
 move down
 move up
 move down
-move right
-kick enemy
-kick enemy
-kick enemy
-move right
-move left
-move right
-move left
-move left
-move right
-move right
-move down
-move left
 move left
 move up
 move right
 move down
-move down
 move right
 move down
 move right
-kick enemy
-kick enemy
-kick enemy
+move up
+move right
+pick T-Shirt
+move left
+move down
+move down
+move right
 move left
 move right
+move up
+move right
+move left
+move left
+move up
 move left
 move right
 move down
-move down
-kick enemy
-kick enemy
+move up
+move left
+move up
 kick enemy"
 OUT="Supported actions:
  * move right
@@ -77,10 +111,42 @@ Supported actions:
 1 x 0, hp: 100, armor: 0 > 
 moved
 Supported actions:
- * move left
  * move right
  * move up
-2 x 0, hp: 100, armor: 0 > 
+0 x 0, hp: 100, armor: 0 > 
+dog found, 3 hp
+Supported actions:
+ * kick enemy
+0 x 1, hp: 100, armor: 0 > 
+enemy kicked. Enemy hp: 2
+Supported actions:
+ * kick enemy
+0 x 1, hp: 94, armor: 0 > 
+enemy kicked. Enemy hp: 1
+Supported actions:
+ * kick enemy
+0 x 1, hp: 88, armor: 0 > 
+enemy killed
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 1, hp: 88, armor: 0 > 
+T-Shirt found
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+ * pick T-Shirt
+1 x 1, hp: 88, armor: 0 > 
+clothes worn
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+1 x 1, hp: 88, armor: 1 > 
 shield found
 Supported actions:
  * move left
@@ -88,14 +154,21 @@ Supported actions:
  * move down
  * move up
  * pick shield
-2 x 1, hp: 100, armor: 0 > 
-clothes worn
+ * throw T-Shirt
+2 x 1, hp: 88, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+2 x 0, hp: 88, armor: 1 > 
+moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 1, hp: 100, armor: 5 > 
+2 x 1, hp: 88, armor: 1 > 
 helmet found
 Supported actions:
  * move left
@@ -103,387 +176,572 @@ Supported actions:
  * move down
  * move up
  * pick helmet
- * throw shield
-3 x 1, hp: 100, armor: 5 > 
+ * throw T-Shirt
+3 x 1, hp: 88, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+2 x 1, hp: 88, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+3 x 1, hp: 88, armor: 1 > 
+dog found, 3 hp
+Supported actions:
+ * kick enemy
+3 x 0, hp: 88, armor: 1 > 
+enemy kicked. Enemy hp: 2
+Supported actions:
+ * kick enemy
+3 x 0, hp: 83, armor: 1 > 
+enemy kicked. Enemy hp: 1
+Supported actions:
+ * kick enemy
+3 x 0, hp: 78, armor: 1 > 
+enemy killed
+Supported actions:
+ * move left
+ * move right
+ * move up
+3 x 0, hp: 78, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+3 x 1, hp: 78, armor: 1 > 
+dog found, 3 hp
+Supported actions:
+ * kick enemy
+4 x 1, hp: 78, armor: 1 > 
+enemy kicked. Enemy hp: 2
+Supported actions:
+ * kick enemy
+4 x 1, hp: 73, armor: 1 > 
+enemy kicked. Enemy hp: 1
+Supported actions:
+ * kick enemy
+4 x 1, hp: 68, armor: 1 > 
+enemy killed
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 1, hp: 68, armor: 1 > 
+helmet found
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+ * pick helmet
+ * throw T-Shirt
+5 x 1, hp: 68, armor: 1 > 
+clothes worn
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+5 x 1, hp: 68, armor: 4 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 1, hp: 68, armor: 4 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+5 x 1, hp: 68, armor: 4 > 
+armor found
+Supported actions:
+ * move left
+ * move right
+ * move up
+ * pick armor
+ * throw T-Shirt
+ * throw helmet
+5 x 0, hp: 68, armor: 4 > 
+the helmet is thrown out
+Supported actions:
+ * move left
+ * move right
+ * move up
+ * pick armor
+ * throw T-Shirt
+5 x 0, hp: 68, armor: 1 > 
+clothes worn
+Supported actions:
+ * move left
+ * move right
+ * move up
+5 x 0, hp: 68, armor: 4 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+4 x 0, hp: 68, armor: 4 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 1, hp: 68, armor: 4 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+3 x 1, hp: 68, armor: 4 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+2 x 1, hp: 68, armor: 4 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+3 x 1, hp: 68, armor: 4 > 
 T-Shirt found
 Supported actions:
  * move left
  * move right
  * move down
  * move up
+ * throw T-Shirt
+ * throw armor
+3 x 2, hp: 68, armor: 4 > 
+the armor is thrown out
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+ * throw T-Shirt
+3 x 2, hp: 68, armor: 1 > 
+the T-Shirt is thrown out
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
  * pick T-Shirt
- * throw shield
-3 x 2, hp: 100, armor: 5 > 
+3 x 2, hp: 68, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 2, hp: 100, armor: 5 > 
+2 x 2, hp: 68, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 3, hp: 100, armor: 5 > 
-pants found
-Supported actions:
- * move left
- * move right
- * move down
- * move up
- * pick pants
- * throw shield
-2 x 4, hp: 100, armor: 5 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
- * move up
-1 x 4, hp: 100, armor: 5 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
- * move up
-2 x 4, hp: 100, armor: 5 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
- * move up
-2 x 5, hp: 100, armor: 5 > 
-pants found
-Supported actions:
- * move left
- * move right
- * move down
- * move up
- * pick pants
- * throw shield
-2 x 6, hp: 100, armor: 5 > 
-clothes worn
-Supported actions:
- * move left
- * move right
- * move down
- * move up
-2 x 6, hp: 100, armor: 6 > 
-helmet found
-Supported actions:
- * move left
- * move right
- * move down
- * move up
- * pick helmet
- * throw pants
- * throw shield
-2 x 7, hp: 100, armor: 6 > 
-the shield is thrown out
-Supported actions:
- * move left
- * move right
- * move down
- * move up
- * pick helmet
- * throw pants
-2 x 7, hp: 100, armor: 1 > 
+1 x 2, hp: 68, armor: 0 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy
-2 x 8, hp: 100, armor: 1 > 
+1 x 3, hp: 68, armor: 0 > 
 enemy kicked. Enemy hp: 5
 Supported actions:
  * kick enemy
-2 x 8, hp: 90, armor: 1 > 
+1 x 3, hp: 57, armor: 0 > 
 enemy kicked. Enemy hp: 4
 Supported actions:
  * kick enemy
-2 x 8, hp: 80, armor: 1 > 
+1 x 3, hp: 46, armor: 0 > 
 enemy kicked. Enemy hp: 3
 Supported actions:
  * kick enemy
-2 x 8, hp: 70, armor: 1 > 
+1 x 3, hp: 35, armor: 0 > 
 enemy kicked. Enemy hp: 2
 Supported actions:
  * kick enemy
-2 x 8, hp: 60, armor: 1 > 
+1 x 3, hp: 24, armor: 0 > 
 enemy kicked. Enemy hp: 1
 Supported actions:
  * kick enemy
-2 x 8, hp: 50, armor: 1 > 
+1 x 3, hp: 13, armor: 0 > 
 enemy killed
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 8, hp: 50, armor: 1 > 
+1 x 3, hp: 13, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 7, hp: 50, armor: 1 > 
+1 x 2, hp: 13, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 8, hp: 50, armor: 1 > 
-helmet found
+1 x 3, hp: 13, armor: 0 > 
+moved
 Supported actions:
  * move left
  * move right
  * move down
- * pick helmet
- * throw pants
-2 x 9, hp: 50, armor: 1 > 
-rat found, 2 hp
-Supported actions:
- * kick enemy
-1 x 9, hp: 50, armor: 1 > 
-enemy kicked. Enemy hp: 1
-Supported actions:
- * kick enemy
-1 x 9, hp: 47, armor: 1 > 
-enemy killed
-Supported actions:
- * move left
- * move right
- * move down
-1 x 9, hp: 47, armor: 1 > 
-T-Shirt found
-Supported actions:
- * move right
- * move down
- * pick T-Shirt
- * throw pants
-0 x 9, hp: 47, armor: 1 > 
-helmet found
-Supported actions:
- * move right
- * move down
  * move up
- * pick helmet
- * throw pants
-0 x 8, hp: 47, armor: 1 > 
-moved
-Supported actions:
- * move right
- * move down
-0 x 9, hp: 47, armor: 1 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 8, hp: 47, armor: 1 > 
+1 x 4, hp: 13, armor: 0 > 
 dog found, 3 hp
 Supported actions:
  * kick enemy
-1 x 8, hp: 47, armor: 1 > 
+0 x 4, hp: 13, armor: 0 > 
 enemy kicked. Enemy hp: 2
 Supported actions:
  * kick enemy
-1 x 8, hp: 42, armor: 1 > 
+0 x 4, hp: 7, armor: 0 > 
 enemy kicked. Enemy hp: 1
 Supported actions:
  * kick enemy
-1 x 8, hp: 37, armor: 1 > 
+0 x 4, hp: 1, armor: 0 > 
 enemy killed
 Supported actions:
- * move left
  * move right
  * move down
  * move up
-1 x 8, hp: 37, armor: 1 > 
+0 x 4, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 8, hp: 37, armor: 1 > 
+1 x 4, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-1 x 8, hp: 37, armor: 1 > 
+1 x 3, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 8, hp: 37, armor: 1 > 
+1 x 2, hp: 1, armor: 0 > 
+shield found
+Supported actions:
+ * move right
+ * move down
+ * move up
+ * pick shield
+0 x 2, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-1 x 8, hp: 37, armor: 1 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 8, hp: 37, armor: 1 > 
+1 x 2, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-1 x 8, hp: 37, armor: 1 > 
+1 x 3, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 8, hp: 37, armor: 1 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
- * move up
-2 x 7, hp: 37, armor: 1 > 
-T-Shirt found
-Supported actions:
- * move left
- * move right
- * move down
- * move up
- * pick T-Shirt
- * throw pants
-1 x 7, hp: 37, armor: 1 > 
-pants found
-Supported actions:
- * move right
- * move down
- * move up
- * throw pants
-0 x 7, hp: 37, armor: 1 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 8, hp: 37, armor: 1 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
- * move up
-1 x 8, hp: 37, armor: 1 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
- * move up
-1 x 7, hp: 37, armor: 1 > 
+1 x 4, hp: 1, armor: 0 > 
 pants found
 Supported actions:
  * move left
  * move right
  * move down
  * move up
- * throw pants
-1 x 6, hp: 37, armor: 1 > 
+ * pick pants
+2 x 4, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 6, hp: 37, armor: 1 > 
+1 x 4, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 5, hp: 37, armor: 1 > 
-dog found, 3 hp
-Supported actions:
- * kick enemy
-3 x 5, hp: 37, armor: 1 > 
-enemy kicked. Enemy hp: 2
-Supported actions:
- * kick enemy
-3 x 5, hp: 32, armor: 1 > 
-enemy kicked. Enemy hp: 1
-Supported actions:
- * kick enemy
-3 x 5, hp: 27, armor: 1 > 
-enemy killed
-Supported actions:
- * move left
- * move right
- * move down
- * move up
-3 x 5, hp: 27, armor: 1 > 
+2 x 4, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 5, hp: 27, armor: 1 > 
+2 x 3, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-3 x 5, hp: 27, armor: 1 > 
+2 x 4, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-2 x 5, hp: 27, armor: 1 > 
+1 x 4, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-3 x 5, hp: 27, armor: 1 > 
+2 x 4, hp: 1, armor: 0 > 
 moved
 Supported actions:
  * move left
  * move right
  * move down
  * move up
-3 x 4, hp: 27, armor: 1 > 
+2 x 3, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+2 x 2, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+2 x 3, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+2 x 2, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+1 x 2, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+1 x 3, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+2 x 3, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+2 x 2, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+3 x 2, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+3 x 1, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 1, hp: 1, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 2, hp: 1, armor: 0 > 
+T-Shirt found
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+ * pick T-Shirt
+5 x 2, hp: 1, armor: 0 > 
+clothes worn
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+5 x 2, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 2, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 1, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+4 x 0, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+5 x 0, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+4 x 0, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+5 x 0, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+5 x 1, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+6 x 1, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+5 x 1, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 1, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 2, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+3 x 2, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 2, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 1, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+4 x 2, hp: 1, armor: 1 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+3 x 2, hp: 1, armor: 1 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy
-3 x 3, hp: 27, armor: 1 > 
-enemy kicked. Enemy hp: 5
-Supported actions:
- * kick enemy
-3 x 3, hp: 17, armor: 1 > 
-enemy kicked. Enemy hp: 4
-Supported actions:
- * kick enemy
-3 x 3, hp: 7, armor: 1 > 
+3 x 3, hp: 1, armor: 1 > 
 player died
 "
 KEYS="--map btests/maps/stage2/94.map"

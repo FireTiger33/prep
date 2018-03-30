@@ -5,8 +5,8 @@ kick enemy
 kick enemy
 kick enemy
 kick enemy
-move down
 move right
+move down
 kick enemy
 kick enemy
 kick enemy
@@ -47,9 +47,10 @@ Supported actions:
 0 x 1, hp: 45 > 
 moved
 Supported actions:
+ * move left
  * move right
- * move up
-0 x 0, hp: 45 > 
+ * move down
+1 x 1, hp: 45 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy

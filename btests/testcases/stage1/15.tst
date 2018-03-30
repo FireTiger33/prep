@@ -1,19 +1,4 @@
 IN="move right
-move left
-move right
-move right
-move left
-move left
-move right
-move right
-move right
-kick enemy
-kick enemy
-kick enemy
-move right
-kick enemy
-kick enemy
-kick enemy
 move right
 move left
 move right
@@ -21,16 +6,9 @@ move right
 kick enemy
 kick enemy
 kick enemy
-kick enemy
-kick enemy
-kick enemy
-move right
-kick enemy
-kick enemy
 move left
 move left
 move left
-move right
 move right
 move left
 move right
@@ -39,119 +17,201 @@ move right
 move right
 kick enemy
 kick enemy
+kick enemy
+move left
+move left
+move right
+move left
+move left
+move right
+move right
+move left
+move left
+move left
+move right
+move right
+move right
+move right
+move left
+move right
+move right
+move right
+kick enemy
+kick enemy
+kick enemy
+kick enemy
+kick enemy
+kick enemy
+move right
+kick enemy
+kick enemy
+move left
+move left
+move right
+move left
+move left
+move right
+move left
+move right
+move right
+move left
+move right
+move right
+move right
+move left
+move left
+move left
+move left
+move left
+move left
+move right
+move left
+move left
+move right
+move right
+move right
+move left
+move left
+move right
+move right
+move left
+move right
+move right
+move left
+move right
+move right
+move left
+move left
+move left
+move right
+move left
+move right
+move left
+move left
+move left
+move right
+move right
+move left
+move right
+move left
+move right
+move right
+move left
+move left
+move left
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move right
+move right
+move left
+move right
+move right
+move right
+move right
+move left
+move left
+move left
+move left
+move left
+move left
+move right
+move right
+move right
+move left
+move left
+move right
+move right
+move left
+move left
+move right
+move right
+move left
+move left
+move right
+move right
+move right
+move left
+move right
+move left
+move right
+move right
+move right
+move right
+move left
+move left
+move left
+move left
+move left
+move left
+move right
+move right
+move left
+move right
+move left
+move right
+move left
+move left
+move right
+move right
+move left
+move left
+move right
+move left
+move right
+move left
+move right
+move right
+move right
+move left
+move right
+move right
+move left
+move left
+move right
+move left
+move left
+move right
+move left
+move right
+move right
+move right
+move left
+move left
+move right
+move right
+move right
+move right
+move right
+move left
+move left
+move left
+move left
+move left
+move left
+move left
+move right
+move right
+move right
+move right
+move right
+move right
+move right
+move right
+kick enemy
+kick enemy
+move left
+move right
 move right
 kick enemy
 kick enemy
 kick enemy
 move left
-move left
-move left
-move left
-move left
-move left
-move right
-move left
-move right
-move left
-move left
-move left
-move left
-move right
-move left
-move left
-move right
-move left
-move right
-move right
-move left
-move left
-move right
-move left
-move right
-move right
-move right
-move left
-move left
-move right
-move left
-move left
-move right
-move left
-move right
-move right
-move right
-move right
-move left
-move right
-move right
-move right
-move right
-move left
-move left
-move right
-move right
-move right
-move right
-move right
-move left
-move left
-move left
-move left
-move right
-move right
-move left
-move right
-move left
-move right
-move right
-move left
-move left
-move left
-move left
-move left
-move left
-move right
-move right
-move left
-move left
-move left
-move right
-move left
-move left
-move left
-move right
-move left
-move right
-move left
-move right
-move left
-move right
-move right
-move right
-move left
-move left
-move left
-move right
-move right
-move left
-move left
-move right
-move left
-move right
-move left
-move right
-move right
-move right
-move right
-move right
-move left
-move right
-move left
-move right
-move right
-move right
-move right
-move right
 move right
 move right
 kick enemy"
@@ -165,27 +225,9 @@ Supported actions:
 1 x 0, hp: 100 > 
 moved
 Supported actions:
- * move right
-0 x 0, hp: 100 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 100 > 
-moved
-Supported actions:
  * move left
  * move right
 2 x 0, hp: 100 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 100 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 100 > 
 moved
 Supported actions:
  * move left
@@ -213,6 +255,44 @@ Supported actions:
  * move left
  * move right
 3 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 88 > 
 dog found, 3 hp
 Supported actions:
  * kick enemy
@@ -234,7 +314,76 @@ moved
 Supported actions:
  * move left
  * move right
-5 x 0, hp: 76 > 
+3 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 76 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 76 > 
 moved
 Supported actions:
  * move left
@@ -301,6 +450,26 @@ moved
 Supported actions:
  * move left
  * move right
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
 4 x 0, hp: 17 > 
 moved
 Supported actions:
@@ -312,6 +481,721 @@ Supported actions:
  * move left
  * move right
 6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+7 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+8 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+7 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+7 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+7 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+8 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+7 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+1 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+2 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+3 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+4 x 0, hp: 17 > 
 moved
 Supported actions:
  * move left
@@ -345,6 +1229,16 @@ Supported actions:
  * move left
  * move right
 9 x 0, hp: 13 > 
+moved
+Supported actions:
+ * move left
+ * move right
+8 x 0, hp: 13 > 
+moved
+Supported actions:
+ * move left
+ * move right
+9 x 0, hp: 13 > 
 dog found, 3 hp
 Supported actions:
  * kick enemy
@@ -362,532 +1256,6 @@ Supported actions:
  * move left
  * move right
 10 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-9 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-8 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-7 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-6 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-3 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-3 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-3 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-3 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-6 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-7 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-6 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-6 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-7 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-8 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-9 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-10 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-9 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-8 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-7 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-6 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-7 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-8 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-7 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-8 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-7 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-8 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-9 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-8 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-7 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-6 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-3 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-3 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-3 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-3 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-2 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-3 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-4 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-5 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-6 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-7 x 0, hp: 1 > 
-moved
-Supported actions:
- * move left
- * move right
-8 x 0, hp: 1 > 
 moved
 Supported actions:
  * move left

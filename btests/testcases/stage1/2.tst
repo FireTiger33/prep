@@ -779,7 +779,9224 @@ move right
 move left
 move right
 move left
-move right"
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left
+move right
+move left"
 OUT="Supported actions:
  * move right
 0 x 0, hp: 100 > 
@@ -3906,5 +13123,36873 @@ Supported actions:
 moved
 Supported actions:
  * move right
-0 x 0, hp: 88 > "
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move right
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 88 > "
 KEYS="--map btests/maps/stage1/2.map"

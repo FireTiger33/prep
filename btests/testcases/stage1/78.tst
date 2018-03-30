@@ -2089,7 +2089,4844 @@ move up
 move down
 move up
 move down
-move up"
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down
+move up
+move down"
 OUT="Supported actions:
  * move up
 0 x 0, hp: 100 > 
@@ -10456,5 +15293,19353 @@ Supported actions:
 moved
 Supported actions:
  * move up
-0 x 0, hp: 88 > "
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 88 > 
+moved
+Supported actions:
+ * move down
+0 x 1, hp: 88 > "
 KEYS="--map btests/maps/stage1/78.map"

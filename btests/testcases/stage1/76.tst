@@ -6,30 +6,29 @@ kick enemy
 kick enemy
 kick enemy
 kick enemy
+move right
+kick enemy
+kick enemy
+kick enemy
+move right
+kick enemy
+kick enemy
+kick enemy
+move right
+kick enemy
+kick enemy
+move right
+move left
+move right
 move up
 kick enemy
 kick enemy
 kick enemy
-move right
-kick enemy
-kick enemy
-kick enemy
 move down
-kick enemy
-kick enemy
-kick enemy
 move left
-move right
 move left
-move right
 move left
 move up
-move down
-move up
-move right
-move down
-move right
-kick enemy
 kick enemy"
 OUT="Supported actions:
  * move right
@@ -74,125 +73,117 @@ Supported actions:
 dog found, 3 hp
 Supported actions:
  * kick enemy
-2 x 1, hp: 45 > 
+3 x 0, hp: 45 > 
 enemy kicked. Enemy hp: 2
 Supported actions:
  * kick enemy
-2 x 1, hp: 39 > 
+3 x 0, hp: 39 > 
 enemy kicked. Enemy hp: 1
 Supported actions:
  * kick enemy
-2 x 1, hp: 33 > 
-enemy killed
-Supported actions:
- * move left
- * move right
- * move down
-2 x 1, hp: 33 > 
-dog found, 3 hp
-Supported actions:
- * kick enemy
-3 x 1, hp: 33 > 
-enemy kicked. Enemy hp: 2
-Supported actions:
- * kick enemy
-3 x 1, hp: 27 > 
-enemy kicked. Enemy hp: 1
-Supported actions:
- * kick enemy
-3 x 1, hp: 21 > 
-enemy killed
-Supported actions:
- * move left
- * move right
- * move down
-3 x 1, hp: 21 > 
-dog found, 3 hp
-Supported actions:
- * kick enemy
-3 x 0, hp: 21 > 
-enemy kicked. Enemy hp: 2
-Supported actions:
- * kick enemy
-3 x 0, hp: 15 > 
-enemy kicked. Enemy hp: 1
-Supported actions:
- * kick enemy
-3 x 0, hp: 9 > 
+3 x 0, hp: 33 > 
 enemy killed
 Supported actions:
  * move left
  * move right
  * move up
-3 x 0, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-2 x 0, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-3 x 0, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-2 x 0, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-3 x 0, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-2 x 0, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
-2 x 1, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-2 x 0, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
-2 x 1, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
-3 x 1, hp: 9 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-3 x 0, hp: 9 > 
+3 x 0, hp: 33 > 
 dog found, 3 hp
 Supported actions:
  * kick enemy
-4 x 0, hp: 9 > 
+4 x 0, hp: 33 > 
 enemy kicked. Enemy hp: 2
 Supported actions:
  * kick enemy
-4 x 0, hp: 3 > 
+4 x 0, hp: 27 > 
+enemy kicked. Enemy hp: 1
+Supported actions:
+ * kick enemy
+4 x 0, hp: 21 > 
+enemy killed
+Supported actions:
+ * move left
+ * move right
+ * move up
+4 x 0, hp: 21 > 
+rat found, 2 hp
+Supported actions:
+ * kick enemy
+5 x 0, hp: 21 > 
+enemy kicked. Enemy hp: 1
+Supported actions:
+ * kick enemy
+5 x 0, hp: 17 > 
+enemy killed
+Supported actions:
+ * move left
+ * move right
+ * move up
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+6 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+5 x 0, hp: 17 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+6 x 0, hp: 17 > 
+dog found, 3 hp
+Supported actions:
+ * kick enemy
+6 x 1, hp: 17 > 
+enemy kicked. Enemy hp: 2
+Supported actions:
+ * kick enemy
+6 x 1, hp: 11 > 
+enemy kicked. Enemy hp: 1
+Supported actions:
+ * kick enemy
+6 x 1, hp: 5 > 
+enemy killed
+Supported actions:
+ * move left
+ * move right
+ * move down
+6 x 1, hp: 5 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+6 x 0, hp: 5 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+5 x 0, hp: 5 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+4 x 0, hp: 5 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+3 x 0, hp: 5 > 
+dog found, 3 hp
+Supported actions:
+ * kick enemy
+3 x 1, hp: 5 > 
 player died
 "
 KEYS="--map btests/maps/stage1/76.map"

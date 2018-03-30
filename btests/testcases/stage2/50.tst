@@ -1,8 +1,4 @@
-IN="move right
-move left
-move right
-move left
-move up
+IN="move up
 kick enemy
 kick enemy
 kick enemy
@@ -18,28 +14,6 @@ kick enemy
 kick enemy
 kick enemy"
 OUT="Supported actions:
- * move right
- * move up
-0 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-1 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-1 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
  * move right
  * move up
 0 x 0, hp: 100, armor: 0 > 

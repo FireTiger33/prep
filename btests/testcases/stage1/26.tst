@@ -5,12 +5,6 @@ kick enemy
 kick enemy
 kick enemy
 kick enemy
-move left
-move right
-move left
-move right
-move left
-move right
 move right
 kick enemy
 kick enemy
@@ -47,33 +41,6 @@ Supported actions:
  * kick enemy
 1 x 0, hp: 45 > 
 enemy killed
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 45 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 45 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 45 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 45 > 
-moved
-Supported actions:
- * move left
- * move right
-1 x 0, hp: 45 > 
-moved
-Supported actions:
- * move right
-0 x 0, hp: 45 > 
-moved
 Supported actions:
  * move left
  * move right

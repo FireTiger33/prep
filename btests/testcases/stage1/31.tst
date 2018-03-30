@@ -5,24 +5,10 @@ kick enemy
 kick enemy
 kick enemy
 kick enemy
-move up
-kick enemy
-kick enemy
-move up
 move left
-move right
-move up
-move up
 move up
 kick enemy
 kick enemy
-move left
-move down
-kick enemy
-kick enemy
-kick enemy
-move up
-move up
 kick enemy
 kick enemy
 kick enemy"
@@ -59,106 +45,31 @@ Supported actions:
  * move left
  * move up
 1 x 0, hp: 45 > 
-rat found, 2 hp
-Supported actions:
- * kick enemy
-1 x 1, hp: 45 > 
-enemy kicked. Enemy hp: 1
-Supported actions:
- * kick enemy
-1 x 1, hp: 41 > 
-enemy killed
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 41 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 2, hp: 41 > 
 moved
 Supported actions:
  * move right
- * move down
  * move up
-0 x 2, hp: 41 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 2, hp: 41 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 3, hp: 41 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 4, hp: 41 > 
-rat found, 2 hp
-Supported actions:
- * kick enemy
-1 x 5, hp: 41 > 
-enemy kicked. Enemy hp: 1
-Supported actions:
- * kick enemy
-1 x 5, hp: 37 > 
-enemy killed
-Supported actions:
- * move left
- * move down
- * move up
-1 x 5, hp: 37 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 5, hp: 37 > 
-dog found, 3 hp
-Supported actions:
- * kick enemy
-0 x 4, hp: 37 > 
-enemy kicked. Enemy hp: 2
-Supported actions:
- * kick enemy
-0 x 4, hp: 31 > 
-enemy kicked. Enemy hp: 1
-Supported actions:
- * kick enemy
-0 x 4, hp: 25 > 
-enemy killed
-Supported actions:
- * move right
- * move down
- * move up
-0 x 4, hp: 25 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 5, hp: 25 > 
+0 x 0, hp: 45 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy
-0 x 6, hp: 25 > 
+0 x 1, hp: 45 > 
 enemy kicked. Enemy hp: 5
 Supported actions:
  * kick enemy
-0 x 6, hp: 14 > 
+0 x 1, hp: 34 > 
 enemy kicked. Enemy hp: 4
 Supported actions:
  * kick enemy
-0 x 6, hp: 3 > 
+0 x 1, hp: 23 > 
+enemy kicked. Enemy hp: 3
+Supported actions:
+ * kick enemy
+0 x 1, hp: 12 > 
+enemy kicked. Enemy hp: 2
+Supported actions:
+ * kick enemy
+0 x 1, hp: 1 > 
 player died
 "
 KEYS="--map btests/maps/stage1/31.map"

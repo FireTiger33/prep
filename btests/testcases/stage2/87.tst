@@ -1,38 +1,18 @@
-IN="move right
-move left
-move right
-move up
-move down
-move right
-kick enemy
-kick enemy
-kick enemy
-kick enemy
-kick enemy
-kick enemy
-move left
-move left
-move right
-move left
-move up
-move right
-move left
-move down
-move up
-move down
-move up
-move down
-move right
-move left
-move right
-move left
-move up
+IN="move up
 move right
 move down
+move right
+kick enemy
+kick enemy
+kick enemy
+kick enemy
+kick enemy
+kick enemy
 move left
+move left
+move right
+move right
 move up
-move right
-move right
 kick enemy
 kick enemy
 kick enemy
@@ -44,21 +24,9 @@ OUT="Supported actions:
 0 x 0, hp: 100, armor: 0 > 
 moved
 Supported actions:
- * move left
  * move right
- * move up
-1 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 100, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-1 x 0, hp: 100, armor: 0 > 
+ * move down
+0 x 1, hp: 100, armor: 0 > 
 moved
 Supported actions:
  * move left
@@ -120,105 +88,10 @@ Supported actions:
 1 x 0, hp: 45, armor: 0 > 
 moved
 Supported actions:
- * move right
- * move up
-0 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
-0 x 1, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
-1 x 1, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
-0 x 1, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
-0 x 1, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
-0 x 1, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
  * move left
  * move right
  * move up
-1 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-1 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
-0 x 1, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
-1 x 1, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move right
- * move up
-1 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move up
-0 x 0, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move right
- * move down
-0 x 1, hp: 45, armor: 0 > 
-moved
-Supported actions:
- * move left
- * move right
- * move down
-1 x 1, hp: 45, armor: 0 > 
+2 x 0, hp: 45, armor: 0 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy

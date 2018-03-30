@@ -1,35 +1,23 @@
-IN="move right
-move left
+IN="move up
+kick enemy
+kick enemy
 move up
-kick enemy
-kick enemy
+move up
 move right
-move up
+kick enemy
+kick enemy
+kick enemy
+kick enemy
+kick enemy
+kick enemy
 move left
 move right
-move up
-kick enemy
-kick enemy
-kick enemy
-kick enemy
-kick enemy
-kick enemy
 move up
 kick enemy
 kick enemy
 kick enemy
 kick enemy"
 OUT="Supported actions:
- * move right
- * move up
-0 x 0, hp: 100 > 
-moved
-Supported actions:
- * move left
- * move up
-1 x 0, hp: 100 > 
-moved
-Supported actions:
  * move right
  * move up
 0 x 0, hp: 100 > 
@@ -49,28 +37,16 @@ Supported actions:
 0 x 1, hp: 96 > 
 moved
 Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 96 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 2, hp: 96 > 
-moved
-Supported actions:
  * move right
  * move down
  * move up
 0 x 2, hp: 96 > 
 moved
 Supported actions:
- * move left
+ * move right
  * move down
  * move up
-1 x 2, hp: 96 > 
+0 x 3, hp: 96 > 
 wolf found, 6 hp
 Supported actions:
  * kick enemy
@@ -96,6 +72,18 @@ Supported actions:
  * kick enemy
 1 x 3, hp: 41 > 
 enemy killed
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 3, hp: 41 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 41 > 
+moved
 Supported actions:
  * move left
  * move down

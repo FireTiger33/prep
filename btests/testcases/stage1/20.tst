@@ -1,16 +1,16 @@
-IN="move up
-move right
+IN="move right
+kick enemy
+kick enemy
+move up
+move up
+kick enemy
+kick enemy
+kick enemy
+kick enemy
+kick enemy
+kick enemy
 move down
-kick enemy
-kick enemy
 move up
-move up
-kick enemy
-kick enemy
-kick enemy
-kick enemy
-kick enemy
-kick enemy
 move up
 kick enemy
 kick enemy
@@ -24,18 +24,6 @@ OUT="Supported actions:
  * move right
  * move up
 0 x 0, hp: 100 > 
-moved
-Supported actions:
- * move right
- * move down
- * move up
-0 x 1, hp: 100 > 
-moved
-Supported actions:
- * move left
- * move down
- * move up
-1 x 1, hp: 100 > 
 rat found, 2 hp
 Supported actions:
  * kick enemy
@@ -80,6 +68,18 @@ Supported actions:
  * kick enemy
 1 x 2, hp: 41 > 
 enemy killed
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 2, hp: 41 > 
+moved
+Supported actions:
+ * move left
+ * move down
+ * move up
+1 x 1, hp: 41 > 
+moved
 Supported actions:
  * move left
  * move down
