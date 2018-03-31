@@ -1,5 +1,20 @@
 #!/usr/bin/env bash
 
+USAGE="Usage: $0 <executable> [args] [ -- <Tests list> ]
+
+Args are:
+    --default-fname <default_test_out>          Path to file with default test settings
+    --tests-path /path/to/tests                 Path to directory with tests
+    --memcheck                                  Enable memcheck
+    --local                                     Enable memcheck for local machine
+    --enable-hexdump                            Enable hexdmp for failed test cases
+"
+
+if [ "$1" == "-h" ] || [ "$1" == "--help" ]; then
+    echo "$USAGE"
+    exit 0
+fi
+
 PROG_PATH=${1}  # ./main.out
 if [ ! -f "${PROG_PATH}" ]; then
     echo "Invalid prog path: '${PROG_PATH}'"
@@ -14,12 +29,14 @@ TESTS=
 WITH_MEMCHECK=0
 LOCAL_MEMCHECK=0
 SPECIFIC_TESTS=0
+WITH_HEXDUMP=0
 TESTS_PATH="btests/testcases"
 DEFAULT_FNAME="./btests/_default"
 
 #####################################
 # Parse args
 #####################################
+
 
 while true; do
     case "$1" in
@@ -39,6 +56,14 @@ while true; do
         --tests-path )
             TESTS_PATH="$2"
             shift 2
+            ;;
+        --enable-hexdump )
+            WITH_HEXDUMP=1
+            shift
+            ;;
+        -h )
+            echo "$USAGE"
+            exit 0
             ;;
         -- )
             shift
@@ -62,7 +87,7 @@ if [ ! -f "${DEFAULT_FNAME}" ]; then
 fi
 
 if [ "${TESTS}" == "" ]; then
-    echo "Usage: $0 /path/to/main.out [--default-fname default_test_out] [--tests-path /path/to/tests] [--memcheck [--local]] [ -- <Tests list> ]"
+    echo "$USAGE"
     exit -1
 fi
 
@@ -94,9 +119,23 @@ for test in ${TESTS}; do
     fi
 
     if [ -n "${EXPECTED}" ] && [ "${EXPECTED}" != "${RECEIVED}" ]; then
+        DIFF_HEX=
+
+        if [ "$WITH_HEXDUMP" == "1" ]; then
+            DIFF_HEX=$(\
+                diff -uN \
+                    <(echo -n "${EXPECTED}" | hexdump -C)\
+                    <(echo -n "${RECEIVED}" | hexdump -C)\
+                | head -20
+            )
+            SEPARATOR="==============================================================================="
+            DIFF_HEX=$(echo "\nDIFF (HEX):\n${SEPARATOR}\n${DIFF_HEX}\n${SEPARATOR}")
+        fi
+
         echo -e "TEST ${test} FAILED"\
                 "\nEXPECTED (${#EXPECTED} symbols):\n${EXPECTED}"\
-                "\nRECEIVED (${#RECEIVED} symbols):\n${RECEIVED}"
+                "\nRECEIVED (${#RECEIVED} symbols):\n${RECEIVED}"\
+                "${DIFF_HEX}"
         exit 1
     fi
 
