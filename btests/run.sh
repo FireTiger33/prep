@@ -107,7 +107,10 @@ for test in ${TESTS}; do
     source ${test}
 
     EXPECTED=${OUT}
-    RECEIVED=$(echo -n "${IN}" | eval "${PROG_PATH} ${KEYS}")
+    # NOTE(a.telyshev): Command Substitution.
+    # FIXME(a.telyshev): Костыль: добавляем в конец символ, чтобы зацепить '\n', а потом этот же символ стрипаем.
+    RECEIVEDZ="$(echo -n "${IN}" | eval "${PROG_PATH} ${KEYS}"; echo z)"
+    RECEIVED="${RECEIVEDZ%?}"
     REC_STATUS=$?
     STATUS=${STATUS:-0}
 
@@ -139,7 +142,7 @@ for test in ${TESTS}; do
         exit 1
     fi
 
-    # TODO: Оверхед :(
+    # TODO(a.telyshev): Оверхед :(.
     if [[ "${WITH_MEMCHECK}" == "1" ]]; then
         if [[ "${LOCAL_MEMCHECK}" == "1" ]]; then
             NO_LOST_PATTERN=${NO_LOST_PATTERN_LOCAL}
