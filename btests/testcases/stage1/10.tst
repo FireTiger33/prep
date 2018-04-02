@@ -347,6 +347,5 @@ enemy kicked. Enemy hp: 5
 Supported actions:
  * kick enemy
 4 x 0, hp: 10 > 
-player died
-"
+player died"
 KEYS="-map btests/maps/stage1/10.map"
