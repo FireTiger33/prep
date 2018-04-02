@@ -63540,4 +63540,4 @@ Supported actions:
  * move down
  * move up
 0 x 3, hp: 50, armor: 0 > "
-KEYS="--map ./btests/maps/stage2/18.map"
+KEYS="--view-armor --map ./btests/maps/stage2/18.map"

@@ -24616,4 +24616,4 @@ moved
 Supported actions:
  * move down
 0 x 1, hp: 45, armor: 0 > "
-KEYS="--map ./btests/maps/stage2/12.map"
+KEYS="--map ./btests/maps/stage2/12.map --view-armor"

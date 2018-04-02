@@ -6598,4 +6598,4 @@ Supported actions:
 1 x 56, hp: 5, armor: 0 > 
 player died
 "
-KEYS="--map ./btests/maps/stage2/42.map"
+KEYS="--view-armor --map ./btests/maps/stage2/42.map"

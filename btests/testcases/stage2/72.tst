@@ -1666,4 +1666,4 @@ Supported actions:
 7 x 3, hp: 2, armor: 3 > 
 player died
 "
-KEYS="--map ./btests/maps/stage2/72.map"
+KEYS="--view-armor --map ./btests/maps/stage2/72.map"

@@ -56104,4 +56104,4 @@ Supported actions:
  * move down
  * move up
 3 x 1, hp: 65, armor: 6 > "
-KEYS="--map ./btests/maps/stage2/7.map"
+KEYS="--map ./btests/maps/stage2/7.map --view-armor"

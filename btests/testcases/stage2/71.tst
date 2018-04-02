@@ -2271,4 +2271,4 @@ Supported actions:
  * move right
  * move up
 11 x 0, hp: 16, armor: 0 > "
-KEYS="--map ./btests/maps/stage2/71.map"
+KEYS="--map ./btests/maps/stage2/71.map --view-armor"

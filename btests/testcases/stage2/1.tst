@@ -14191,4 +14191,4 @@ moved
 Supported actions:
  * move up
 0 x 0, hp: 96, armor: 0 > "
-KEYS="--map ./btests/maps/stage2/1.map"
+KEYS="--map ./btests/maps/stage2/1.map --view-armor"
