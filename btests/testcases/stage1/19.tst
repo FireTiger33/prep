@@ -290,4 +290,4 @@ Supported actions:
 1 x 5, hp: 9 > 
 player died
 "
-KEYS="--map btests/maps/stage1/19.map"
+KEYS="--map ./btests/maps/stage1/19.map"

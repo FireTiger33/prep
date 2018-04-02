@@ -121,4 +121,4 @@ Supported actions:
 5 x 0, hp: 1, armor: 0 > 
 player died
 "
-KEYS="--map btests/maps/stage2/59.map"
+KEYS="--map ./btests/maps/stage2/59.map"

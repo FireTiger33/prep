@@ -9692,5 +9692,9 @@ Supported actions:
 moved
 Supported actions:
  * move right
-0 x 0, hp: 100, armor: 0 > "
-KEYS="--map btests/maps/stage2/79.map"
+0 x 0, hp: 100, armor: 0 > 
+moved
+Supported actions:
+ * move left
+1 x 0, hp: 100, armor: 0 > "
+KEYS="--map ./btests/maps/stage2/79.map"

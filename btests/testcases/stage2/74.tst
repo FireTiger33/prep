@@ -1190,4 +1190,4 @@ Supported actions:
 4 x 4, hp: 5, armor: 0 > 
 player died
 "
-KEYS="--map btests/maps/stage2/74.map"
+KEYS="--map ./btests/maps/stage2/74.map"

@@ -593,4 +593,4 @@ Supported actions:
 9 x 0, hp: 5 > 
 player died
 "
-KEYS="--map btests/maps/stage1/43.map"
+KEYS="--map ./btests/maps/stage1/43.map"

@@ -56096,5 +56096,12 @@ Supported actions:
  * move left
  * move down
  * move up
-4 x 1, hp: 65, armor: 6 > "
-KEYS="--map btests/maps/stage2/7.map"
+4 x 1, hp: 65, armor: 6 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move down
+ * move up
+3 x 1, hp: 65, armor: 6 > "
+KEYS="--map ./btests/maps/stage2/7.map"

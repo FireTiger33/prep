@@ -7236,5 +7236,9 @@ Supported actions:
 moved
 Supported actions:
  * move down
-0 x 1, hp: 96 > "
-KEYS="--map btests/maps/stage1/67.map"
+0 x 1, hp: 96 > 
+moved
+Supported actions:
+ * move up
+0 x 0, hp: 96 > "
+KEYS="--map ./btests/maps/stage1/67.map"

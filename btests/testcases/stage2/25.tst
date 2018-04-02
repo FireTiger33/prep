@@ -8615,4 +8615,4 @@ Supported actions:
 0 x 38, hp: 2, armor: 1 > 
 player died
 "
-KEYS="--map btests/maps/stage2/25.map"
+KEYS="--map ./btests/maps/stage2/25.map"

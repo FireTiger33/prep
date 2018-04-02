@@ -63533,5 +63533,11 @@ Supported actions:
  * move right
  * move down
  * move up
-0 x 2, hp: 50, armor: 0 > "
-KEYS="--map btests/maps/stage2/18.map"
+0 x 2, hp: 50, armor: 0 > 
+moved
+Supported actions:
+ * move right
+ * move down
+ * move up
+0 x 3, hp: 50, armor: 0 > "
+KEYS="--map ./btests/maps/stage2/18.map"

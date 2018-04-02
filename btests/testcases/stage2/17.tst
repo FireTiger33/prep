@@ -1743,4 +1743,4 @@ Supported actions:
 3 x 3, hp: 1, armor: 4 > 
 player died
 "
-KEYS="--map btests/maps/stage2/17.map"
+KEYS="--map ./btests/maps/stage2/17.map"

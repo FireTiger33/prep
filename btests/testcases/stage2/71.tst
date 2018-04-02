@@ -2264,5 +2264,11 @@ Supported actions:
  * move right
  * move down
  * move up
-11 x 1, hp: 16, armor: 0 > "
-KEYS="--map btests/maps/stage2/71.map"
+11 x 1, hp: 16, armor: 0 > 
+moved
+Supported actions:
+ * move left
+ * move right
+ * move up
+11 x 0, hp: 16, armor: 0 > "
+KEYS="--map ./btests/maps/stage2/71.map"

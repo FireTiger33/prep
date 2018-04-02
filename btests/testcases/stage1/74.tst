@@ -190,4 +190,4 @@ Supported actions:
 3 x 0, hp: 3 > 
 player died
 "
-KEYS="--map btests/maps/stage1/74.map"
+KEYS="--map ./btests/maps/stage1/74.map"
