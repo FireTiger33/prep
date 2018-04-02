@@ -28,26 +28,26 @@ build:
 test_stage1:
   stage: test_stage1
   script:
-    - ./btests/run.sh ./${BIN_NAME} --test-path btests/stage1
+    - ./btests/run.sh ./${BIN_NAME} --tests-path btests/testcases/stage1
   when: manual
 
 test_stage1_mem:
   stage: test_stage1
   script:
     - apt-get update && apt-get install -y valgrind
-    - ./btests/run.sh ./${BIN_NAME} --memcheck --test-path btests/stage1
+    - ./btests/run.sh ./${BIN_NAME} --memcheck --tests-path btests/testcases/stage1
   when: manual
 
 test_stage2:
   stage: test_stage2
   script:
-    - ./btests/run.sh ./${BIN_NAME} --test-path btests/stage2
+    - ./btests/run.sh ./${BIN_NAME} --tests-path btests/testcases/stage2
   when: manual
 
 test_stage2_mem:
   stage: test_stage2
   script:
     - apt-get update && apt-get install -y valgrind
-    - ./btests/run.sh ./${BIN_NAME} --memcheck --test-path btests/stage2
+    - ./btests/run.sh ./${BIN_NAME} --memcheck --tests-path btests/testcases/stage2
   when: manual
 
