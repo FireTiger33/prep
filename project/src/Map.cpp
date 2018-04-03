@@ -64,7 +64,7 @@ int Map::read_Map_from_file(const char* path_to_file) {
     
     in >> size.first >> size.second;
     map = new int* [size.first];
-    for (int i = 0; i < size.second; ++i) {
+    for (int i = 0; i < size.first; ++i) {
         map[i] = new int [size.second];
     }
     while (in) {
