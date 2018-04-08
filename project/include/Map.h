@@ -18,7 +18,7 @@ class Map {
     Person* get_enemy(const std::pair<int, int>& pos);
     void delete_enemy(const std::pair<int, int>& pos);
     int blank_map();
-    int read_Map_from_file(const char* path_to_file);
+    int read_Map_from_file(const std::string& path_to_file);
 
  private:
     std::pair<int, int> size;

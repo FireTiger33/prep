@@ -2,7 +2,6 @@
 #define PROJECT_INCLUDE_PERSON_H_
 
 #include <iostream>
-#include "keypress.h"
 
 
 class Person {
@@ -26,7 +25,6 @@ class Person {
     void set_name(const std::string& str) {
         name = str;
     }
-
 
  protected:
     void up_damage(int val) {

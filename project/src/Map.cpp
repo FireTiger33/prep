@@ -43,7 +43,7 @@ int Map::blank_map() {
     return 0;
 }
 
-int Map::read_Map_from_file(const char* path_to_file) {
+int Map::read_Map_from_file(const std::string& path_to_file) {
     std::string name_enemy;
     std::ifstream in(path_to_file);
     int x = 0;
