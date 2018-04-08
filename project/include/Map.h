@@ -17,7 +17,6 @@ class Map {
     int is_enemy_on_cell(const std::pair<int, int>& pos);
     Person* get_enemy(const std::pair<int, int>& pos);
     void delete_enemy(const std::pair<int, int>& pos);
-    int blank_map();
     int read_Map_from_file(const std::string& path_to_file);
 
  private:

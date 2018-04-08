@@ -4,21 +4,31 @@
 
 std::vector<bool> get_possible_actions(Person* person, Map* map) {
     std::vector<bool> possible_actions(5, false);
+    bool flag = false;
     if (map->is_enemy_on_cell(person->get_pos())) {
         possible_actions[0] = true;
+        flag = true;
     } else {
         if (person->get_pos().first > 0) {
             possible_actions[1] = true;
+            flag = true;
         }
         if (person->get_pos().first < map->get_size().first - 1) {
             possible_actions[2] = true;
+            flag = true;
         }
         if (person->get_pos().second > 0) {
             possible_actions[3] = true;
+            flag = true;
         }
         if (person->get_pos().second < map->get_size().second - 1) {
             possible_actions[4] = true;
+            flag = true;
         }
+    }
+
+    if (!flag) {
+        return std::vector<bool> (0);
     }
 
     return possible_actions;

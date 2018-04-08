@@ -35,14 +35,6 @@ void Map::delete_enemy(const std::pair<int, int>& pos) {
     this->location_person.erase(pos);
 }
 
-int Map::blank_map() {
-    if (location_person.begin() == location_person.end()) {
-        return 1;
-    }
-
-    return 0;
-}
-
 int Map::read_Map_from_file(const std::string& path_to_file) {
     std::string name_enemy;
     std::ifstream in(path_to_file);

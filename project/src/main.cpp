@@ -3,13 +3,13 @@
 #include "Hero.h"
 #include "Game_manager.h"
 #include "keypress.h"
-#include <map>
+#include <set>
 
 
-std::map<std::string, bool> key_parser(const std::vector<std::string>& keys) {
-    std::map<std::string, bool> parsed;
+std::set<std::string> key_parser(const std::vector<std::string>& keys) {
+    std::set<std::string> parsed;
     for (auto& i : keys) {
-        parsed.insert({i, true});
+        parsed.insert(i);
     }
     return parsed;
 }
@@ -23,12 +23,13 @@ int main(int argc, const char** argv) {
         values.push_back(argv[i]);
     }
 
-    Map map_f;
+    Map map;
     Hero hero("Hero_1");
     auto keys = key_parser(values);
     auto z = keys.find("--map");
+
     if (z != keys.end()) {
-        if (map_f.read_Map_from_file((*++z).first)) {
+        if (map.read_Map_from_file((*++z))) {
             return -1;
         }
     } else {
@@ -40,17 +41,17 @@ int main(int argc, const char** argv) {
         shadow_keypress();
     }
 
-    if (map_f.blank_map()) {
-        print_possible_actions(get_possible_actions(&hero, &map_f));
+    if (get_possible_actions(&hero, &map).empty()) {
+        print_possible_actions(get_possible_actions(&hero, &map));
         puts("");
         hero.print_info();
         return 0;
     }
 
     do {
-        print_possible_actions(get_possible_actions(&hero, &map_f));
+        print_possible_actions(get_possible_actions(&hero, &map));
         hero.print_info();
-    } while (character_progress(&hero, &map_f, cursor_control));
+    } while (character_progress(&hero, &map, cursor_control));
 
     if (cursor_control) {
         reset_keypress();
