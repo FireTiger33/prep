@@ -10,6 +10,7 @@ class Wolf : public Enemy {
         std::string name = "wolf";
         set_name(name);
     }
+    virtual ~Wolf() = default;
 };
 
 

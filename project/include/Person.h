@@ -1,29 +1,32 @@
 #ifndef PROJECT_INCLUDE_PERSON_H_
 #define PROJECT_INCLUDE_PERSON_H_
 
-#include <iostream>
+#include "Entity.h"
 
 
-class Person {
+class Person : public Entity {
  public:
-    Person(int hp, const std::pair<int, int>& pos): hp(hp), damage(1), pos(pos) {}
+    Person(int hp, const std::pair<int, int>& pos):
+            Entity(pos), hp(hp), damage(1), armor(0) {}
+    virtual ~Person() = default;
+
     void attack(Person* enemy);
-    void print_info();
     void go_up();
     void go_down();
     void go_right();
     void go_left();
-    std::pair<int, int> get_pos() {
-        return pos;
-    }
-    std::string get_name() {
-        return name;
-    }
+
     int get_hp() {
         return hp;
     }
-    void set_name(const std::string& str) {
-        name = str;
+    int get_armor() {
+        return armor;
+    }
+    void up_armor(int arm) {
+        armor += arm;
+    }
+    std::string get_type() {
+        return "person";
     }
 
  protected:
@@ -34,8 +37,7 @@ class Person {
  private:
     int hp;
     int damage;
-    std::pair<int, int> pos;
-    std::string name;
+    int armor;
 };
 
 

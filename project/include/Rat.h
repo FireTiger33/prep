@@ -10,6 +10,7 @@ class Rat :public Enemy {
         std::string name = "rat";
         set_name(name);
     }
+    virtual ~Rat() = default;
 };
 
 

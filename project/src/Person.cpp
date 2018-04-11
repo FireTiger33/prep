@@ -2,14 +2,15 @@
 #include "Game_manager.h"
 
 
-void Person::print_info() {
-    std::cout << pos.first << " x " << pos.second << ", hp: " << hp << " > ";
-}
-
 void Person::attack(Person* enemy) {
-    enemy->hp -= this->damage;
+    enemy->hp -= damage;
     if (enemy->get_hp() > 0) {
-        this->hp -= enemy->damage;
+        int damage = enemy->damage;
+        if (armor >= damage) {
+            hp -= 1;
+        } else {
+            hp -= (damage - armor);
+        }
     }
 }
 

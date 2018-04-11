@@ -9,6 +9,11 @@ class Enemy : public Person {
     Enemy(int hp, int damage, const std::pair<int, int>& pos) : Person::Person(hp, pos) {
         up_damage(damage);
     }
+    virtual ~Enemy() = default;
+
+    std::string get_type() {
+        return "enemy";
+    }
 };
 
 
