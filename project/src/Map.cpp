@@ -1,53 +1,84 @@
 #include "Map.h"
+#include <iostream>
+#include <fstream>
+#include "Rat.h"
+#include "Wolf.h"
+#include "Dog.h"
+#include "Armor.h"
+#include "Helmet.h"
+#include "Pants.h"
+#include "Shield.h"
+#include "T_Shirt.h"
 
 
 std::pair<int, int> Map::get_size() {
     return size;
 }
 
-bool Map::add_entity(const std::string& name, const std::pair<int, int>& pos) {
+void Map::add_entity(const std::string& name, const std::pair<int, int>& pos) {
     if (name == "wolf") {
         location_entity.insert({pos, new Wolf(pos)});
-        return 0;
+        return;
     }
     if (name == "dog") {
         location_entity.insert({pos, new Dog(pos)});
-        return 0;
+        return;
     }
     if (name == "rat") {
         location_entity.insert({pos, new Rat(pos)});
-        return 0;
+        return;
     }
     if (name == "armor") {
         location_entity.insert({pos, new Armor(pos)});
-        return 0;
+        return;
     }
     if (name == "helmet") {
         location_entity.insert({pos, new Helmet(pos)});
-        return 0;
+        return;
     }
     if (name == "shield") {
         location_entity.insert({pos, new Shield(pos)});
-        return 0;
+        return;
     }
     if (name == "pants") {
         location_entity.insert({pos, new Pants(pos)});
-        return 0;
+        return;
     }
     if (name == "T-Shirt") {
         location_entity.insert({pos, new T_Shirt(pos)});
     }
 
-    return 0;
+    return;
 }
 
-
-int Map::is_entity_on_cell(const std::pair<int, int>& pos) {
-    if (location_entity.find(pos) != location_entity.end()) {
-        return 1;
+/*void Map::add_entity(const char* name, const std::pair<int, int>& pos) {
+    switch (name) {
+        case "wolf": location_entity.insert({pos, new Wolf(pos)});
+            break;
+        case "dog": location_entity.insert({pos, new Dog(pos)});
+            break;
+        case "rat": location_entity.insert({pos, new Rat(pos)});
+            break;
+        case "armor": location_entity.insert({pos, new Armor(pos)});
+            break;
+        case "helmet": location_entity.insert({pos, new Helmet(pos)});
+            break;
+        case "shield": location_entity.insert({pos, new Shield(pos)});
+            break;
+        case "pants": location_entity.insert({pos, new Pants(pos)});
+            break;
+        case "T-Shirt": location_entity.insert({pos, new T_Shirt(pos)});
+            break;
+        default:
+            break;
     }
 
-    return 0;
+    return;
+}*/
+
+
+bool Map::is_entity_on_cell(const std::pair<int, int>& pos) {
+    return location_entity.find(pos) != location_entity.end();
 }
 
 Entity* Map::get_entity(const std::pair<int, int>& pos) {
@@ -56,11 +87,11 @@ Entity* Map::get_entity(const std::pair<int, int>& pos) {
 
 
 void Map::delete_entity(const std::pair<int, int>& pos) {
-    std::string type = location_entity[pos]->get_type();
-    if (type == "enemy") {
+    int type = location_entity[pos]->get_type();
+    if (type == ENEMY) {
         delete(static_cast<Enemy*>(location_entity[pos]));
     } else {
-        if (type == "item") {
+        if (type == ITEM) {
             delete(static_cast<Item*>(location_entity[pos]));
         }
     }
@@ -71,7 +102,7 @@ void Map::transfer_to_person(std::pair<int, int> pos) {
     location_entity.erase(pos);
 }
 
-int Map::read_Map_from_file(const std::string& path_to_file) {
+int Map::read_from_file(const std::string& path_to_file) {
     std::string name_object;
     std::ifstream in(path_to_file);
     int x = 0;

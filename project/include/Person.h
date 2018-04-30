@@ -10,6 +10,7 @@ class Person : public Entity {
             Entity(pos), hp(hp), damage(1), armor(0) {}
     virtual ~Person() = default;
 
+    void got_damage(int damage);
     void attack(Person* enemy);
     void go_up();
     void go_down();
@@ -25,8 +26,8 @@ class Person : public Entity {
     void up_armor(int arm) {
         armor += arm;
     }
-    std::string get_type() {
-        return "person";
+    int get_type() {
+        return PERSON;
     }
 
  protected:

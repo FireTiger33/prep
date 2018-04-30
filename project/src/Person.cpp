@@ -1,15 +1,19 @@
 #include "Person.h"
-#include "Game_manager.h"
+#include "Game.h"
 
+
+void Person::got_damage(int damage) {
+    hp -= damage;
+}
 
 void Person::attack(Person* enemy) {
-    enemy->hp -= damage;
+    enemy->got_damage(damage);
     if (enemy->get_hp() > 0) {
         int damage = enemy->damage;
         if (armor >= damage) {
-            hp -= 1;
+            got_damage(1);
         } else {
-            hp -= (damage - armor);
+            got_damage(damage - armor);
         }
     }
 }

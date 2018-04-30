@@ -1,5 +1,9 @@
 #include "keypress.h"
 
+#include <termios.h>
+#include <sys/types.h>
+#include <unistd.h>
+
 
 static struct termios stored_set;
 

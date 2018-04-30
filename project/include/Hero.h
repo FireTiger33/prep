@@ -6,6 +6,10 @@
 #include <set>
 
 
+enum {
+    HERO_DEFAULT_HP = 100
+};
+
 struct lexicographical_compare {
     bool operator()(Entity* x, Entity* y) {
         return x->get_name() < y->get_name();
@@ -14,13 +18,13 @@ struct lexicographical_compare {
 
 class Hero : public Person {
  public:
-    explicit Hero(const std::string& name): Person(100, std::make_pair(0, 0)), left_place(20) {
+    explicit Hero(const std::string& name = "Hero"): Person(HERO_DEFAULT_HP, std::make_pair(0, 0)), available_weight(20) {
         set_name(name);
     }
     ~Hero() {
-        for (auto i = available_item.begin(); i != available_item.end(); i = available_item.begin()) {
+        for (auto i = items.begin(); i != items.end(); i = items.begin()) {
             auto iterator = *i;
-            available_item.erase(i);
+            items.erase(i);
             delete(iterator);
         }
     }
@@ -33,8 +37,8 @@ class Hero : public Person {
     void throw_item(Item* i);
 
  private:
-    int left_place;
-    std::set <class Item*, lexicographical_compare> available_item;
+    int available_weight;
+    std::set <class Item*, lexicographical_compare> items;
 };
 
 

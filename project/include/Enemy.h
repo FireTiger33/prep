@@ -11,8 +11,8 @@ class Enemy : public Person {
     }
     virtual ~Enemy() = default;
 
-    std::string get_type() {
-        return "enemy";
+    int get_type() {
+        return ENEMY;
     }
 };
 
