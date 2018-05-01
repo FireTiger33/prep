@@ -18,7 +18,8 @@ struct lexicographical_compare {
 
 class Hero : public Person {
  public:
-    explicit Hero(const std::string& name = "Hero"): Person(HERO_DEFAULT_HP, std::make_pair(0, 0)), available_weight(20) {
+    explicit Hero(const std::string& name = "Hero"):
+            Person(HERO_DEFAULT_HP, std::make_pair(0, 0)), available_weight(20) {
         set_name(name);
     }
     ~Hero() {
